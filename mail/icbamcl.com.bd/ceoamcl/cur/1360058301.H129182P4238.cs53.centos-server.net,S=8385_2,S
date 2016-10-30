@@ -1,0 +1,116 @@
+Return-path: <makjasir@yahoo.com>
+Envelope-to: ceoamcl@icbamcl.com.bd
+Delivery-date: Tue, 05 Feb 2013 15:58:21 +0600
+Received: from nm28-vm8.bullet.mail.gq1.yahoo.com ([98.136.216.167]:41288)
+	by cs53.centos-server.net with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <makjasir@yahoo.com>)
+	id 1U2fIC-00016B-QK
+	for ceoamcl@icbamcl.com.bd; Tue, 05 Feb 2013 15:58:21 +0600
+Received: from [98.137.12.190] by nm28.bullet.mail.gq1.yahoo.com with NNFMP; 05 Feb 2013 09:58:18 -0000
+Received: from [98.137.12.233] by tm11.bullet.mail.gq1.yahoo.com with NNFMP; 05 Feb 2013 09:58:18 -0000
+Received: from [127.0.0.1] by omp1041.mail.gq1.yahoo.com with NNFMP; 05 Feb 2013 09:58:18 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 793683.24516.bm@omp1041.mail.gq1.yahoo.com
+Received: (qmail 18549 invoked by uid 60001); 5 Feb 2013 09:58:18 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1360058298; bh=sYmUdrD+jg8zURF7uGco6hCvqMCK8rkSdtlKaSTvQJM=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=NWCNsZrdozRjj/uGBegzAeLXuWgGepnJyCdzSyooBcAOjrarA5eIzZeJogQx6L0nq2jYXaonWbWgMhQNtigDSIFKO4/kCm2TtCPHor4/HMGbdMS5VeiCMs44SGHiHKJLqboqKJl52HZDTIpbeLV+p3G7Obb1bmV6Mx9H1AllF0A=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=5tU41ucuDRMGpNH9Jbr0Qc59xSapD21S6J/ZZmtvDQrYx5cfa+a6/ur7J/AQ47ltB//mOSIo8MsgJ+06TL376zTT0zYUU530BxfGM+StK1dcmAPbRPjrWJVL+6VNTO0dUMJU769npd+tCfk+ejVbzp4/CgLUXGIuWHloyjKFr5M=;
+X-YMail-OSG: KmOUSfkVM1kTxws4DATjwH1pyh6UYCZTpu3mlzQ8dS9CrYJ
+ 4Ujn2sNcPlVX0TDPhxHENWx0LVLFzfPHPcGztKrUidd2DI3URHohil.Tkhkp
+ UmsmJhpY8leTK3gaMngpmPItpp.d4sBRmuWl4cURJPPP2rhTnyJV83t6zKwQ
+ 0fed8mGGPieTzNEfLxaF1HKPotUpC5Aqxm_rIFpujPO_iuYKepC0gL0tX7_K
+ rMwo06ms1CvSsL5b5Hns_tFkmqQBbDXsIzTyS.fV7rB78zEbUB66xPfvwerc
+ hjg3QcwKmMuFfYMm7fGuDXuGzXEEQFFx__G2WNC5da.mkLraGfGITmFeNqpq
+ 2_ywvEdoh6uGoL_muShNCKnUz5qZ2ttUJnri_1uU1A7fFuWmQstm2EehoeCF
+ tQg2Er77UwD.PFeia.THej9_fAh5fJgDe3pZBRBKlZzyqhEu0gntu9LHuXcG
+ oRmtZNJTRffr4HWb14ZsRKsH4I_gjQo14C4NTF0rUqCqysL9qXmGMbiSe1pN
+ y
+Received: from [142.105.15.117] by web164004.mail.gq1.yahoo.com via HTTP; Tue, 05 Feb 2013 01:58:18 PST
+X-Rocket-MIMEInfo: 001.001,SSBhcnJpdmVkIGluIE5ldyBZb3JrIG9uIEZlYi4gNCwgMjAxMy4KCgpNZC4gQW5pc3VsIEthYmlyIEphc2lyCkNFTwpOUkIgQnVzaW5lc3MgTmV0d29yawoyMTIgNDcwIDI0NzfCoAoKU2VjcmV0YXJ5IGFuZCBVTiBSZXAuCkRoYWthIEFoc2FuaWEgTWlzc2lvbiBVU0EKSm9pbnQgU2VjcmV0YXJ5CkJhbmdsYWRlc2hpIEFtZXJpY2FuIFB1YmxpYyBBZmZhaXJzIEZyb250IChCQVBBRikKwqAKQ29uZmlkZW50aWFsaXR5OiBUaGlzIGUtbWFpbCB0cmFuc21pc3Npb24sIGFuZCBhbnkgYXR0YWNoZWQgZG9jdW1lbnQBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.132.503
+References: <20130103010609.870431p7qqzturip@cs53.centos-server.net>
+Message-ID: <1360058298.17503.YahooMailNeo@web164004.mail.gq1.yahoo.com>
+Date: Tue, 5 Feb 2013 01:58:18 -0800 (PST)
+From: Muhammed Kabir <makjasir@yahoo.com>
+Reply-To: Muhammed Kabir <makjasir@yahoo.com>
+Subject: Re: Different documents of Bangladesh Fund.
+To: "ceoamcl@icbamcl.com.bd" <ceoamcl@icbamcl.com.bd>
+In-Reply-To: <20130103010609.870431p7qqzturip@cs53.centos-server.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-994738946-1850255503-1360058298=:17503"
+
+---994738946-1850255503-1360058298=:17503
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+I arrived in New York on Feb. 4, 2013.=0A=0A=0AMd. Anisul Kabir Jasir=0ACEO=
+=0ANRB Business Network=0A212 470 2477=A0=0A=0ASecretary and UN Rep.=0ADhak=
+a Ahsania Mission USA=0AJoint Secretary=0ABangladeshi American Public Affai=
+rs Front (BAPAF)=0A=A0=0AConfidentiality: This e-mail transmission, and any=
+ attached documents, or previous e-mail messages attached to it, may contai=
+n confidential information. If you are not the intended recipient, or recei=
+ved in error, please immediately notify by reply e-mail at makjasir@yahoo.c=
+om, and destroy the original transmission and its attachments.=A0 Sorry for=
+ any inconvenience and thank you for your cooperation.=0A =0A=0A___________=
+_____________________=0A From: "ceoamcl@icbamcl.com.bd" <ceoamcl@icbamcl.co=
+m.bd>=0ATo: nrbnetwork@gmail.com; makjasir@yahoo.com =0ACc: iamshamol@yahoo=
+.com =0ASent: Thursday, January 3, 2013 1:06 AM=0ASubject: Different docume=
+nts of Bangladesh Fund.=0A  =0AMr. Md. Anisul Kabir Jasir,=0AConsultant=0AB=
+IPONON=0ANew York, U.S.A.=0A=0ADear Sir,=0A=0AWe are sending the enclosed a=
+ttachments for taking necessary action at your end.=0A=0AThanking you.=0A=
+=0ASincerely yours,=0A=0AMd. Alauddain Khan=0AChief Executive Officer=0AICB=
+ Asset Management Company Ltd.
+---994738946-1850255503-1360058298=:17503
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:14pt"><div><span>I arrived =
+in New York on Feb. 4, 2013.</span></div><div></div><div>&nbsp;</div><div><=
+font size=3D"2"><span style=3D"font-weight: bold;"><font size=3D"3">Md. Ani=
+sul Kabir Jasir</font></span></font></div><div><font size=3D"2"><span style=
+=3D"font-weight: bold;"><font size=3D"3">CEO</font></span></font></div><div=
+><font size=3D"2"><span style=3D"font-weight: bold;"><font size=3D"3">NRB B=
+usiness Network</font></span><br></font><font size=3D"2"><span style=3D"fon=
+t-weight: bold;"><i>212 470 2477</i>&nbsp;</span></font></div><div><font si=
+ze=3D"2"><span style=3D"font-weight: bold;"></span><br><span style=3D"font-=
+style: italic;">Secretary and UN Rep.</span><br><span style=3D"font-weight:=
+ bold;">Dhaka Ahsania Mission USA</span><br><span style=3D"font-style: ital=
+ic;">Joint Secretary</span><br><span style=3D"font-weight: bold;">Banglades=
+hi American Public Affairs
+ Front (BAPAF)</span></font></div><div>&nbsp;</div><div style=3D"margin: 0i=
+n 0in 0pt;" class=3D"Normal1"><i><strong><font style=3D"background-color: r=
+gb(255, 255, 0);"><span class=3D"yshortcuts"><span style=3D"color: rgb(31, =
+73, 125); font-family: Arial; font-size: 11pt;" class=3D"ms__id32652"><font=
+ color=3D"#ff0000">Confidentiality</font></span></span><span style=3D"color=
+: rgb(31, 73, 125); font-family: Arial; font-size: 11pt;" class=3D"ms__id32=
+653"><font color=3D"#ff0000">: This e-mail transmission, and any attached d=
+ocuments, or previous e-mail messages attached to it, may contain <span sty=
+le=3D"background-attachment: scroll;" id=3D"lw_1284356622_3"><span class=3D=
+"yshortcuts">confidential information</span></span>. If you are not the int=
+ended recipient, or received in error, please immediately notify by reply e=
+-mail at makjasir@yahoo.com, and destroy the original transmission and its =
+attachments.&nbsp; Sorry for any inconvenience and thank you for your
+ cooperation</font>.</span></font></strong></i></div><div><br></div>  <div =
+style=3D"font-family: times new roman, new york, times, serif; font-size: 1=
+4pt;"> <div style=3D"font-family: times new roman, new york, times, serif; =
+font-size: 12pt;"> <div dir=3D"ltr"> <font size=3D"2" face=3D"Arial"> <div =
+style=3D"margin: 5px 0px; padding: 0px; border: 1px solid rgb(204, 204, 204=
+); height: 0px; line-height: 0; font-size: 0px;" class=3D"hr" contentEditab=
+le=3D"false" readonly=3D"true"></div>  <b><span style=3D"font-weight: bold;=
+">From:</span></b> "ceoamcl@icbamcl.com.bd" &lt;ceoamcl@icbamcl.com.bd&gt;<=
+br> <b><span style=3D"font-weight: bold;">To:</span></b> nrbnetwork@gmail.c=
+om; makjasir@yahoo.com <br><b><span style=3D"font-weight: bold;">Cc:</span>=
+</b> iamshamol@yahoo.com <br> <b><span style=3D"font-weight: bold;">Sent:</=
+span></b> Thursday, January 3, 2013 1:06 AM<br> <b><span style=3D"font-weig=
+ht: bold;">Subject:</span></b> Different documents of Bangladesh Fund.<br> =
+</font> </div> <br>=0AMr. Md. Anisul Kabir Jasir,<br>Consultant<br>BIPONON<=
+br>New York, U.S.A.<br><br>Dear Sir,<br><br>We are sending the enclosed att=
+achments for taking necessary action at your end.<br><br>Thanking you.<br><=
+br>Sincerely yours,<br><br>Md. Alauddain Khan<br>Chief Executive Officer<br=
+>ICB Asset Management Company Ltd.<br><br><br> </div> </div>  </div></body>=
+</html>
+---994738946-1850255503-1360058298=:17503--

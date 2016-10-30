@@ -1,0 +1,133 @@
+Return-path: <>
+Envelope-to: ceoamcl@icbamcl.com.bd
+Delivery-date: Fri, 07 Oct 2011 11:22:18 -0400
+Received: from mailforward.mailhostbox.com ([70.87.28.164])
+	by vm136.centos-server.net with esmtp (Exim 4.69)
+	id 1RCCFe-0006oh-KY
+	for ceoamcl@icbamcl.com.bd; Fri, 07 Oct 2011 11:22:18 -0400
+Received: from mx1.mailhostbox.com (inbound-us2.mailhostbox.com [70.87.28.136])
+	by mailforward.mailhostbox.com (Postfix) with ESMTP id A64AF162A878
+	for <ceoamcl@icbamcl.com.bd>; Fri,  7 Oct 2011 15:22:17 +0000 (GMT)
+Received: by mx1.mailhostbox.com (Postfix)
+	id A41763F0274; Fri,  7 Oct 2011 15:22:17 +0000 (GMT)
+Date: Fri,  7 Oct 2011 15:22:17 +0000 (GMT)
+From: MAILER-DAEMON@mx1.mailhostbox.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ceoamcl@icbamcl.com.bd
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="639573F0322.1318000937/mx1.mailhostbox.com"
+Message-Id: <20111007152217.A41763F0274@mx1.mailhostbox.com>
+X-CTCH-Spam: Unknown
+X-CTCH-VOD: Unknown
+X-CTCH-RefID: str=0001.0A0B0203.4E8F1929.0181,ss=1,re=0.000,fgs=256
+
+This is a MIME-encapsulated message.
+
+--639573F0322.1318000937/mx1.mailhostbox.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host mx1.mailhostbox.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<autorespond@autoresponder.mailhostbox.com> (expanded from
+    <info@green-delta.com>): Command died with status 9:
+    "/usr/local/yaa/bin/yaa.pl". Command output: [Fri, Oct  7 15:20:57 2011]:
+    8584318: Processing new request, id 8584318 [Fri, Oct  7 15:20:57 2011]:
+    8584318: Message sender: ceoamcl@icbamcl.com.bd, recipients:
+    info@green-delta.com [Fri, Oct  7 15:20:58 2011]: 8584318: Recipient
+    info@green-delta.com has autoresponder turned on. Message couldnt be sent
+    through smtp serversmtp1.mailhostbox.com with timeout 60
+
+--639573F0322.1318000937/mx1.mailhostbox.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mx1.mailhostbox.com
+X-Postfix-Queue-ID: 639573F0322
+X-Postfix-Sender: rfc822; ceoamcl@icbamcl.com.bd
+Arrival-Date: Fri,  7 Oct 2011 15:20:55 +0000 (GMT)
+
+Final-Recipient: rfc822; autorespond@autoresponder.mailhostbox.com
+Original-Recipient: rfc822;info@green-delta.com
+Action: failed
+Status: 5.3.0
+Diagnostic-Code: x-unix; [Fri, Oct  7 15:20:57 2011]: 8584318: Processing new
+    request, id 8584318 [Fri, Oct  7 15:20:57 2011]: 8584318: Message sender:
+    ceoamcl@icbamcl.com.bd, recipients: info@green-delta.com [Fri, Oct  7
+    15:20:58 2011]: 8584318: Recipient info@green-delta.com has autoresponder
+    turned on. Message couldnt be sent through smtp serversmtp1.mailhostbox.com
+    with timeout 60
+
+--639573F0322.1318000937/mx1.mailhostbox.com
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Return-Path: <ceoamcl@icbamcl.com.bd>
+Received: from vm136.centos-server.net (unknown [68.171.212.107])
+	by mx1.mailhostbox.com (Postfix) with ESMTP id 639573F0322
+	for <info@green-delta.com>; Fri,  7 Oct 2011 15:20:55 +0000 (GMT)
+Received: from blazenocpanel.securenet-server.net ([127.0.0.1] helo=localhost)
+	by vm136.centos-server.net with esmtpa (Exim 4.69)
+	(envelope-from <ceoamcl@icbamcl.com.bd>)
+	id 1RCC2P-00060l-1V; Fri, 07 Oct 2011 11:08:37 -0400
+Received: from 202.191.125.236 ([202.191.125.236]) by www.icbamcl.com.bd
+ (Horde Framework) with HTTP; Fri, 07 Oct 2011 11:08:36 -0400
+Message-ID: <20111007110836.104332hhdyxnbh10@www.icbamcl.com.bd>
+Date: Fri, 07 Oct 2011 11:08:36 -0400
+From: ceoamcl@icbamcl.com.bd
+To: aaamail@bdcom.com, abil@abbank.com.bd, merchantbank@agranibank.org,
+ info@allfin.org, banco@global-bd.net, bmsl@accesstal.net, fif@dhaka.net,
+ ecg@bangla.net, gramcap@yahoo.com, icl@iidfc.com, mbu@janatabank-bd.com,
+ mslbd@yahoo.com, info@ndbcapital.com, mbid@primebank.com.bd,
+ sblmbu@yahoo.com, info@southeastbank.com.bd, info@swadesh.com.bd,
+ tblmbank@trustbanklimited.com, info@lankabangla-investments.com,
+ enquiry@bracbank.com, mail@thecitybank.com, info@primebank.com.bd,
+ info@southeastbank.com.bd, aibl@al-arafahbank.com, info@sibl-bd.com,
+ obl@onebankbd.com, mbl@bol-online.com, info@bcblbd.com,
+ info@mutualtrustbank.com, info@fsiblbd.com, info@premierbankltd.com,
+ bankasia@bankasia.com.bd, info@trustbanklimited.com,
+ sblho@shahjalalbank.com.bd, enquiry@icbislamic-bd.com, contact@hsbc.com.bd,
+ basicho@citechco.net, webmail@ulc.com.bd, email@ipdcbd.com, info@ilfsl.com,
+ dbh@deltabrac.com, email@plfsbd.com, info@iidfc.com, bifc@bol-online.com,
+ ffil@bdcom.net, info@first-lease.com.bd, info@ifilbd.com,
+ info@midasfinancing.com, mail@phoenixfinance.com.bd, info@plfbd.com,
+ triermnsk@fasbd.com, info@lankabangla.com, info@uttarafinance.com,
+ mailbox@idlc.com, baylease@ncll.com, info@primefinancebd.com,
+ info@pragatilife.com, info@deltalife.org, dhakainsurance@mtlbd.net,
+ info@meghnalife.com, asiainsu@gmail.com, mercantile@mercantile.co.ke,
+ info@ngicl.com, peoples@telnet-bd.com, info@reliance-bd.com,
+ piclho@pioneerinsurance.com.bd, info@green-delta.com, apgic@bdcom.com,
+ globalho@accesstel.net, info@nitolinsurance.com, pililbd@gmail.com,
+ info@paramountgroupbd.com, info@pragatilife.com, info@prime-insurance.net,
+ slic@sandhanilife.com, info@unitedinsurance.com.bd, info@investasia.com.bd,
+ ifty.islam@at-capital.com, info@acaml.com.bd, maroof@acaml.com,
+ nam@nambd.com, info@lrglobalbd.com, Tanim.Sattar@alif-amc.com
+Cc: ceoamcl@icbamcl.com.bd
+Subject: Invitation: Inaugural ceremony of selling units of Bangladesh Fund
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="=_2zj7bj67srn"
+Content-Transfer-Encoding: 7bit
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.9)
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vm136.centos-server.net
+X-AntiAbuse: Original Domain - green-delta.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - icbamcl.com.bd
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+--639573F0322.1318000937/mx1.mailhostbox.com--

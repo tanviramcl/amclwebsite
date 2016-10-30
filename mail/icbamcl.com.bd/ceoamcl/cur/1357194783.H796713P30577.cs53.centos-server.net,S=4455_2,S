@@ -1,0 +1,110 @@
+Return-path: <>
+Envelope-to: ceoamcl@icbamcl.com.bd
+Delivery-date: Thu, 03 Jan 2013 01:33:03 -0500
+Received: from aomail3.emirates.net.ae ([195.229.241.84]:64043)
+	by cs53.centos-server.net with esmtp (Exim 4.80)
+	id 1TqeMR-0007uR-Fl
+	for ceoamcl@icbamcl.com.bd; Thu, 03 Jan 2013 01:33:03 -0500
+MIME-version: 1.0
+Content-type: multipart/report;
+ boundary="Boundary_(ID_DD2mo2bxjX+nCzewMMAj4Q)"; report-type=delivery-status
+Received: from dxbmc4.emirates.net.ae ([194.170.0.121])
+ by aomail3.emirates.net.ae (I&ES Mail Server 4.2)
+ with ESMTP id <0MG100L4ZE70MU20@aomail3.emirates.net.ae> for
+ ceoamcl@icbamcl.com.bd; Thu, 03 Jan 2013 10:33:00 +0400 (GST)
+Received: from process-daemon.ds4.emirates.net.ae by ds4.emirates.net.ae
+ (I&ES Mail Server 4.2) id <0MG100F00E1QNE00@ds4.emirates.net.ae> for
+ ceoamcl@icbamcl.com.bd; Thu, 03 Jan 2013 10:33:00 +0400 (GST)
+Received: from ds4.emirates.net.ae (I&ES Mail Server 4.2)
+ id <0MG100FNVE70E200@ds4.emirates.net.ae>; Thu,
+ 03 Jan 2013 10:33:00 +0400 (GST)
+Date: Thu, 03 Jan 2013 10:33:00 +0400 (GST)
+From: Internet Mail Delivery <postmaster@ds4.emirates.net.ae>
+Subject: Delivery Notification: Delivery has failed
+To: ceoamcl@icbamcl.com.bd
+Message-id: <0MG100FNXE70E200@ds4.emirates.net.ae>
+
+
+--Boundary_(ID_DD2mo2bxjX+nCzewMMAj4Q)
+Content-type: text/plain; CHARSET=US-ASCII
+Content-language: en-US
+Content-transfer-encoding: 7BIT
+
+This report relates to a message you sent with the following header fields:
+
+  Message-id: <20130103013253.12405kgfpzyozbpx@www.icbamcl.com.bd>
+  Date: Thu, 03 Jan 2013 01:32:53 -0500
+  From: ceoamcl@icbamcl.com.bd
+  To: jbaln@emirates.net.ae, jbadas@emirates.net.ae, jbdxbb@emirates.net.ae,
+   jbshj@emirates.net.ae
+  Subject: Price Re-fixation of Bangladesh Fund.
+
+Your message cannot be delivered to the following recipients:
+
+  Recipient address: jbadas@emirates.net.ae
+  Reason: Over quota
+
+
+--Boundary_(ID_DD2mo2bxjX+nCzewMMAj4Q)
+Content-type: message/delivery-status
+
+Reporting-MTA: dns;dxbmc4.emirates.net.ae (ims-ms-daemon)
+Arrival-date: Thu, 03 Jan 2013 10:33:00 +0400 (GST)
+
+Original-recipient: rfc822;jbadas@emirates.net.ae
+Final-recipient: rfc822;jbadas@emirates.net.ae
+Action: failed
+Status: 4.2.2 (Over quota)
+
+--Boundary_(ID_DD2mo2bxjX+nCzewMMAj4Q)
+Content-type: TEXT/RFC822-HEADERS
+
+Return-path: <ceoamcl@icbamcl.com.bd>
+Received: from ims-ms-daemon.ds4.emirates.net.ae by ds4.emirates.net.ae
+ (I&ES Mail Server 4.2) id <0MG100FNVE70E200@ds4.emirates.net.ae>; Thu,
+ 03 Jan 2013 10:33:00 +0400 (GST)
+Received: from dimail6.emirates.net.ae by ds4.emirates.net.ae
+ (I&ES Mail Server 4.2) with ESMTP id <0MG100B14E70KSJ0@ds4.emirates.net.ae>;
+ Thu, 03 Jan 2013 10:33:00 +0400 (GST)
+Received: from aavmail5.emirates.net.ae ([195.229.241.254])
+ by dimail6.emirates.net.ae (I&ES Mail Server 4.2)
+ with ESMTP id <0MG100EYIE700ZA0@dimail6.emirates.net.ae>; Thu,
+ 03 Jan 2013 10:33:00 +0400 (GST)
+Received: from cs53.centos-server.net
+ (cs53-dns1.centos-server.net [173.230.252.203])	by aavmail5.emirates.net.ae
+ (I&ES Mail Server 4.2) with ESMTP id 493C05022BE8A2B7; Thu,
+ 03 Jan 2013 10:32:57 +0400 (GST)
+Received: from localhost ([127.0.0.1]:51935)	by cs53.centos-server.net with
+ esmtpa (Exim 4.80)	(envelope-from <ceoamcl@icbamcl.com.bd>)
+	id 1TqeMH-0007tl-TD; Thu, 03 Jan 2013 01:32:53 -0500
+Received: from 202.79.21.130 ([202.79.21.130])
+ by www.icbamcl.com.bd (Horde Framework) with HTTP; Thu,
+ 03 Jan 2013 01:32:53 -0500
+Date: Thu, 03 Jan 2013 01:32:53 -0500
+From: ceoamcl@icbamcl.com.bd
+Subject: Price Re-fixation of Bangladesh Fund.
+To: jbaln@emirates.net.ae, jbadas@emirates.net.ae, jbdxbb@emirates.net.ae,
+ jbshj@emirates.net.ae
+Cc: fakhrul_2@yahoo.com
+Message-id: <20130103013253.12405kgfpzyozbpx@www.icbamcl.com.bd>
+MIME-version: 1.0
+Content-type: TEXT/PLAIN
+Content-transfer-encoding: QUOTED-PRINTABLE
+Authentication-results: aavmail5.emirates.net.ae
+	header.from=ceoamcl@icbamcl.com.bd; domainkeys=neutral (no sig)
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cs53.centos-server.net
+X-AntiAbuse: Original Domain - emirates.net.ae
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - icbamcl.com.bd
+X-Get-Message-Sender-Via: cs53.centos-server.net: authenticated_id:
+ ceoamcl@icbamcl.com.bd
+X-Source:
+X-Source-Args:
+X-Source-Dir:
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.11)
+
+
+
+--Boundary_(ID_DD2mo2bxjX+nCzewMMAj4Q)--

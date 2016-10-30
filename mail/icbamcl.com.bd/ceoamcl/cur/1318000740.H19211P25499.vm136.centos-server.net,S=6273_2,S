@@ -1,0 +1,134 @@
+Return-path: <>
+Envelope-to: ceoamcl@icbamcl.com.bd
+Delivery-date: Fri, 07 Oct 2011 11:19:00 -0400
+Received: from mail-gy0-f193.google.com ([209.85.160.193])
+	by vm136.centos-server.net with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.69)
+	id 1RCCCR-0006d3-Jt
+	for ceoamcl@icbamcl.com.bd; Fri, 07 Oct 2011 11:19:00 -0400
+Received: by gye5 with SMTP id 5so442911gye.4
+        for <ceoamcl@icbamcl.com.bd>; Fri, 07 Oct 2011 08:18:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=gamma;
+        h=mime-version:from:to:x-failed-recipients:subject:message-id:date
+         :content-type;
+        bh=asQFyDK/0fzWT5v6F8lImJKFB+AckQyj5wbaX+p9Jjs=;
+        b=Qo6BvBI4AqDpPoatK9oS5nMgqEXgpce7UwDKWY2KJPNE3ECdyF19osRgRugmr/rKXf
+         8yChk2gaZs87QV6SXZeMluCaM91metna530juQV0Age2P/p8AgWIkfnuHZbxggIxFKAe
+         dfdJ5u4a/g6e41r0FugsxGxzV7m8j1EeB6V0w=
+Received: by 10.236.191.170 with SMTP id g30mr10604842yhn.110.1318000737211;
+        Fri, 07 Oct 2011 08:18:57 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.236.191.170 with SMTP id g30mr14281564yhn.110; Fri, 07 Oct
+ 2011 08:18:57 -0700 (PDT)
+From: Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+To: ceoamcl@icbamcl.com.bd
+X-Failed-Recipients: info@first-lease.com.bd
+Subject: Delivery Status Notification (Failure)
+Message-ID: <20cf30563e8fc1540404aeb6f594@google.com>
+Date: Fri, 07 Oct 2011 15:18:57 +0000
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello ceoamcl@icbamcl.com.bd,
+
+We're writing to let you know that the group you tried to contact (info) may not exist, or you may not have permission to post messages to the group. A few more details on why you weren't able to post:
+
+ * You might have spelled or formatted the group name incorrectly.
+ * The owner of the group may have removed this group.
+ * You may need to join the group before receiving permission to post.
+ * This group may not be open to posting.
+
+If you have questions related to this or any other Google Group, visit the Help Center at http://www.google.com/support/a/first-lease.com.bd/bin/static.py?hl=en_US&page=groups.cs.
+
+Thanks,
+
+first-lease.com.bd admins
+
+
+
+----- Original message -----
+
+Received: by 10.236.191.170 with SMTP id g30mr10604816yhn.110.1318000737029;
+        Fri, 07 Oct 2011 08:18:57 -0700 (PDT)
+Received: by 10.236.191.170 with SMTP id g30mr10604798yhn.110.1318000736923;
+        Fri, 07 Oct 2011 08:18:56 -0700 (PDT)
+Return-Path: <ceoamcl@icbamcl.com.bd>
+Received: from vm136.centos-server.net ([68.171.212.107])
+        by mx.google.com with ESMTPS id r28si2137707yhb.84.2011.10.07.08.18.55
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Fri, 07 Oct 2011 08:18:56 -0700 (PDT)
+Received-SPF: neutral (google.com: 68.171.212.107 is neither permitted nor denied by best guess record for domain of ceoamcl@icbamcl.com.bd) client-ip=68.171.212.107;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 68.171.212.107 is neither permitted nor denied by best guess record for domain of ceoamcl@icbamcl.com.bd) smtp.mail=ceoamcl@icbamcl.com.bd
+Received: from blazenocpanel.securenet-server.net ([127.0.0.1] helo=localhost)
+	by vm136.centos-server.net with esmtpa (Exim 4.69)
+	(envelope-from <ceoamcl@icbamcl.com.bd>)
+	id 1RCC2P-00060l-1V; Fri, 07 Oct 2011 11:08:37 -0400
+Received: from 202.191.125.236 ([202.191.125.236]) by www.icbamcl.com.bd
+ (Horde Framework) with HTTP; Fri, 07 Oct 2011 11:08:36 -0400
+Message-ID: <20111007110836.104332hhdyxnbh10@www.icbamcl.com.bd>
+Date: Fri, 07 Oct 2011 11:08:36 -0400
+From: ceoamcl@icbamcl.com.bd
+To: aaamail@bdcom.com, abil@abbank.com.bd, merchantbank@agranibank.org,
+ info@allfin.org, banco@global-bd.net, bmsl@accesstal.net, fif@dhaka.net,
+ ecg@bangla.net, gramcap@yahoo.com, icl@iidfc.com, mbu@janatabank-bd.com,
+ mslbd@yahoo.com, info@ndbcapital.com, mbid@primebank.com.bd,
+ sblmbu@yahoo.com, info@southeastbank.com.bd, info@swadesh.com.bd,
+ tblmbank@trustbanklimited.com, info@lankabangla-investments.com,
+ enquiry@bracbank.com, mail@thecitybank.com, info@primebank.com.bd,
+ info@southeastbank.com.bd, aibl@al-arafahbank.com, info@sibl-bd.com,
+ obl@onebankbd.com, mbl@bol-online.com, info@bcblbd.com,
+ info@mutualtrustbank.com, info@fsiblbd.com, info@premierbankltd.com,
+ bankasia@bankasia.com.bd, info@trustbanklimited.com,
+ sblho@shahjalalbank.com.bd, enquiry@icbislamic-bd.com, contact@hsbc.com.bd,
+ basicho@citechco.net, webmail@ulc.com.bd, email@ipdcbd.com, info@ilfsl.com,
+ dbh@deltabrac.com, email@plfsbd.com, info@iidfc.com, bifc@bol-online.com,
+ ffil@bdcom.net, info@first-lease.com.bd, info@ifilbd.com,
+ info@midasfinancing.com, mail@phoenixfinance.com.bd, info@plfbd.com,
+ triermnsk@fasbd.com, info@lankabangla.com, info@uttarafinance.com,
+ mailbox@idlc.com, baylease@ncll.com, info@primefinancebd.com,
+ info@pragatilife.com, info@deltalife.org, dhakainsurance@mtlbd.net,
+ info@meghnalife.com, asiainsu@gmail.com, mercantile@mercantile.co.ke,
+ info@ngicl.com, peoples@telnet-bd.com, info@reliance-bd.com,
+ piclho@pioneerinsurance.com.bd, info@green-delta.com, apgic@bdcom.com,
+ globalho@accesstel.net, info@nitolinsurance.com, pililbd@gmail.com,
+ info@paramountgroupbd.com, info@pragatilife.com, info@prime-insurance.net,
+ slic@sandhanilife.com, info@unitedinsurance.com.bd, info@investasia.com.bd,
+ ifty.islam@at-capital.com, info@acaml.com.bd, maroof@acaml.com,
+ nam@nambd.com, info@lrglobalbd.com, Tanim.Sattar@alif-amc.com
+Cc: ceoamcl@icbamcl.com.bd
+Subject: Invitation: Inaugural ceremony of selling units of Bangladesh Fund
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="=_2zj7bj67srn"
+Content-Transfer-Encoding: 7bit
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.9)
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vm136.centos-server.net
+X-AntiAbuse: Original Domain - first-lease.com.bd
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - icbamcl.com.bd
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+To
+
+Managing Director & CEO
+
+
+Dear Sir,
+
+Please see the attachments.
+
+
+
+Sincerely yours,
+
+Md. Alauddin Khan
+Chief Executive Officer
+ICB Asset Management Company Limited
+Tel: 9570176 (D), 7160303 Ext-101
+
+
+Other contacts:
+(02) 7121256 (DCEO), 9555436 (EO), 7125566 (AEO)

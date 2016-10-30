@@ -1,0 +1,100 @@
+Return-path: <>
+Envelope-to: ceoamcl@icbamcl.com.bd
+Delivery-date: Wed, 26 Oct 2011 08:35:13 -0400
+Received: from nm22-vm1.bullet.mail.ac4.yahoo.com ([98.139.53.219])
+	by vm136.centos-server.net with smtp (Exim 4.69)
+	id 1RJ2hN-0000eR-4T
+	for ceoamcl@icbamcl.com.bd; Wed, 26 Oct 2011 08:35:13 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=gcom1024; t=1319632510; bh=VjQhTUAKvvM1ectyjT70qNY2jokJ3KEB3V540usOeDc=; h=Received:Received:Received:X-Yahoo-Newman-Property:X-Yahoo-Newman-Id:Message-ID:Date:From:To:X-Loop:Subject; b=ayWhgLPU/64GQl0ldXx0TJ8rFVJj2j7sia/let8D0dITg/spDcflOZKmcZ48hynlPUlAZkaqqPXixyQWKwKctstNJbXGhWi7nLOZuiQLjItYdPj59jcvZ+3MdJ5ob72EGup0LIsQdLVP3INWPvGpWfmDIUc56GdNE/X6290QEas=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=gcom1024; d=yahoo.com;
+	b=glOjLeyc89XR2PDgPq7bvMQz+nHuBEawSXhgwAfJ/gq0Fw67HfWuKEPKK6bKOe4/YM2vuxToKMEXMzhvgSKzWezWz/+sNsbzzkZhBvvT3VGkdoCgmSQ0qL3NdorAqwhC6Itxvdo9lp8rGXs+rgTPz9neNDIA08KX5IEoL3oNZZI=;
+Received: from [98.139.52.190] by nm22.bullet.mail.ac4.yahoo.com with NNFMP; 26 Oct 2011 12:35:10 -0000
+Received: from [98.139.52.167] by tm3.bullet.mail.ac4.yahoo.com with NNFMP; 26 Oct 2011 12:35:10 -0000
+Received: from [127.0.0.1] by omp1050.mail.ac4.yahoo.com with NNFMP; 26 Oct 2011 12:35:10 -0000
+X-Yahoo-Newman-Property: ymail-5
+X-Yahoo-Newman-Id: 595295.55018.bm@omp1050.mail.ac4.yahoo.com
+Message-ID: <595295.55018.bm@omp1050.mail.ac4.yahoo.com>
+Date: Wed, 26 Oct 2011 05:35:10 -0700 (PDT)
+From: MAILER-DAEMON@yahoo.com
+To: ceoamcl@icbamcl.com.bd
+X-Loop: MAILER-DAEMON@yahoo.com
+Subject: Delivery failure
+
+Message from yahoo.com.
+Unable to deliver message to the following address(es).
+
+<bhckl_cw@yahoo.com>:
+This user doesn't have a yahoo.com account (bhckl_cw@yahoo.com) [0]
+
+--- Original message follows.
+
+The original message is over 5K. Message truncated.
+
+Return-Path: <ceoamcl@icbamcl.com.bd>
+Received-SPF: none (domain of icbamcl.com.bd does not designate permitted sender hosts)
+X-YMailISG: e5E9JsgWLDtmj0P4N.L1PtPProbLuSrFckhiFx4dSdjG8NSr
+ E7AGmXZAziil.Dxnn7s8O16Fo6yGmFtKD17_nSmF4MtE0c._6W1lDvx4wQCL
+ J7bA9GillHwcCjIOvJRZT3BAsCWEYBPjuu3ewsUki0YjJxduwocVXYN8s7q1
+ XRbU0p_b47S4iHzZxFFlOoDPqkLjVoIWOsX5nWGr3ltCbhf3pTuiRmv_b0am
+ lStHeGgsofDD5WrBkaDyx5gaW6Q3lkeJeRcGa0VZhLoDTnwcsWJ7_viJ4sTf
+ WATMwi_uyIFqZSiGOgpbI6bcGdsSaiCW0yg0gYLAkN4AHGKJ5XLJrMeKRGmz
+ 97ArsZ6pFsA2G2REwjbNFCmfHrsFq5iAUBOHBP3icG4LfVU.5tf708hkJyBf
+ P_djnBPXR38TWAjFaD5rCs3sIJ70U92BigJ9vC_FtYhDxRfX8U0r2q5570F7
+ Zrnb4muGguNIH4DplK6xNJsp2o4YmwwNgRs0mDIQn0mBKTSo93.97E7HVqoB
+ tJH_GzzpRYNIl5eJBNZ.WQBsGKD3mbNnnYZ1Cjww_DoQPEa5vnVi.D0h0LuJ
+ VrLW.EOBzaGMSJ4YTyV97u2n_5GsQePrufJFx96dXqOQxAciKJtc98wURyTI
+ OQwJMvYIjhwmgbfOqsG1fGK7XKSp2teYgb.ejdpP7XwkQbMD7HSvwhA8g5MD
+ rYbvpdcAV.GhJ.oczznHlEJZqnA_gGhs5e.XzT4GcsPnSipvi39gmaXncj9k
+ XUT4l_BxqqP4fLVGJmMKkSPkAqHPAI.pFQjNYRaC6UNVuROYECr4V0QpBF5V
+ yADXpax_0_Ek7CFl8XDoI.cUO1EUH8hxat9y3VEQF.zCiE.8RHMWa6yNPLto
+ pKkur0AYKo6bbtPMiHjvkToKIvCO4LdIGORMU1OvTDztZS5KfUHxfa6Fe0Pk
+ 3CmT1o_kv5O1tKbzeA--
+X-Originating-IP: [202.188.0.162]
+Authentication-Results: mta1232.mail.mud.yahoo.com  from=icbamcl.com.bd; domainkeys=neutral (no sig);  from=icbamcl.com.bd; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO mx.tm.net.my) (202.188.0.162)
+  by mta1232.mail.mud.yahoo.com with SMTP; Wed, 26 Oct 2011 05:35:07 -0700
+Received: from pp-inbound.tm.net.my ([192.168.10.84])
+ by mx3.tm.net.my (Sun Java System Messaging Server 6.2-8.04 (built Feb 28
+ 2007)) with ESMTP id <0LTO00866AXZ8J00@mx3.tm.net.my>
+ (ORCPT bddoot@streamyx.com); Wed, 26 Oct 2011 20:34:50 +0800 (MYT)
+Received: from vm136.centos-server.net
+ (107.212.171.68.securenet-server.net [68.171.212.107] (may be forged))
+	by pp-inbound01.tm.net.my (8.14.4/8.14.4) with ESMTP id p9QCYZq3006193	for
+ <bddoot@streamyx.com>; Wed, 26 Oct 2011 20:34:37 +0800
+Received: from blazenocpanel.securenet-server.net ([127.0.0.1] helo=localhost)
+	by vm136.centos-server.net with esmtpa (Exim 4.69)
+	(envelope-from <ceoamcl@icbamcl.com.bd>)	id 1RJ2gj-0000bu-3E; Wed,
+ 26 Oct 2011 08:34:33 -0400
+Received: from 202.191.125.236 ([202.191.125.236])
+ by www.icbamcl.com.bd (Horde Framework) with HTTP; Wed,
+ 26 Oct 2011 08:34:32 -0400
+Date: Wed, 26 Oct 2011 08:34:32 -0400
+From: ceoamcl@icbamcl.com.bd
+Subject: Sending Prospectus, Unit Application Forms,
+ Nominee Forms and Brochure for Non-Resident Bangladeshi (NRB) investor for
+ Public Offer of Bangladesh Fund.
+To: bddoot@streamyx.com
+Cc: ceoamcl@icbamcl.com.bd
+Message-id: <20111026083432.509077lkmrl0d4yg@www.icbamcl.com.bd>
+MIME-version: 1.0
+Content-type: multipart/mixed; boundary="Boundary_(ID_lNLMkDXvXrj5z/43KuarqA)"
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vm136.centos-server.net
+X-AntiAbuse: Original Domain - streamyx.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - icbamcl.com.bd
+X-Source:
+X-Source-Args:
+X-Source-Dir:
+X-Proofpoint-Virus-Version: vendor=fsecure
+ engine=2.50.10432:5.4.6813,1.0.211,0.0.0000
+ definitions=2011-10-26_03:2011-10-26,2011-10-26,1970-01-01 signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0
+ suspectscore=0 phishscore=0 bulkscore=0 adultscore=0 classifier=spam adjust=0
+ reason=mlx scancount=1 engine=6.0.2-1012030000 definitions=main-1110260090
+User-Agent: Inter
+*** MESSAGE TRUNCATED ***
+
+
+.

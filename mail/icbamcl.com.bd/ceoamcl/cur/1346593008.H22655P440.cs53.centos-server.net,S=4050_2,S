@@ -1,0 +1,58 @@
+Return-path: <inquiry@passport.gov.bd>
+Envelope-to: CEOAMCL@ICBAMCL.COM.BD
+Delivery-date: Sun, 02 Sep 2012 09:36:48 -0400
+Received: from [123.49.37.156] (port=52112 helo=mail.passport.gov.bd)
+	by cs53.centos-server.net with esmtp (Exim 4.77)
+	(envelope-from <inquiry@passport.gov.bd>)
+	id 1T8AM2-00006i-F8
+	for CEOAMCL@ICBAMCL.COM.BD; Sun, 02 Sep 2012 09:36:47 -0400
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.passport.gov.bd (Postfix) with ESMTP id C4D9A188800A
+	for <CEOAMCL@ICBAMCL.COM.BD>; Sun,  2 Sep 2012 19:34:52 +0600 (BDT)
+X-Virus-Scanned: amavisd-new at mail.passport.gov.bd
+Received: from mail.passport.gov.bd ([127.0.0.1])
+	by localhost (mail.passport.gov.bd [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id LGFevY7YDqWj for <CEOAMCL@ICBAMCL.COM.BD>;
+	Sun,  2 Sep 2012 19:34:51 +0600 (BDT)
+Received: from DC-On-WebApp-01 (unknown [192.168.10.19])
+	by mail.passport.gov.bd (Postfix) with ESMTP id AA1741888001
+	for <CEOAMCL@ICBAMCL.COM.BD>; Sun,  2 Sep 2012 19:34:51 +0600 (BDT)
+MIME-Version: 1.0
+From: inquiry@passport.gov.bd
+To: CEOAMCL@ICBAMCL.COM.BD
+Date: 2 Sep 2012 19:43:07 +0600
+Subject: Bangladesh Online Passport Application
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <20120902133451.AA1741888001@mail.passport.gov.bd>
+
+=0D=0A=0D=0A<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"=
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0D=0A=0D=0A<html=
+ xmlns=3D"http://www.w3.org/1999/xhtml">=0D=0A<head><title>=0D=0A	Online=
+ Application for Bangladesh Machine Readable Passport(BGDMRP) - Password=
+=0D=0A</title></head>=0D=0A<body>=0D=0A    <form name=3D"form1" method=3D"post"=
+ action=3D"EmailTemplate.aspx?id=3DOA0000000018360&amp;link=3Dfalse" id=3D"form1">=
+=0D=0A<input type=3D"hidden" name=3D"__VIEWSTATE" id=3D"__VIEWSTATE" value=3D"/wEPDwUKMjA4ODgzOTMzMQ9kFgICAw9kFgYCAQ8PFgIeBFRleHQFCzAyIFNlcCAyMDEyZGQCAw8PFgIfAAXCAUJlbG93IGlzIHlvdXIgTVJQIE9ubGluZSBsb2dpbiBkZXRhaWxzOjxici8+PGJyLz4mbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDtVc2VyIElEOiZuYnNwOyA8Yj5PQTAwMDAwMDAwMTgzNjA8L2I+IDwvYnI+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7UGFzc3dvcmQ6Jm5ic3A7IDxiPjYxNDE4ZTwvYj4gZGQCBQ8PFgIfAAUqQmFuZ2xhZGVzaCBJbW1pZ3JhdGlvbiBhbmQgUGFzc3BvcnQgT2ZmaWNlZGRkD0TYTOKa8GPrsETL6a/55UrRQ9A=3D"=
+ />=0D=0A=0D=0A        <table style=3D"margin: 0 auto; background: url(http://i52.tinypic.com/5x7vht.gif)=
+ no-repeat; width:650px; height: 550px;" border=3D"0">=0D=0A           =
+ <tr valign=3D"top" style=3D"height: 60px; vertical-align: top;">=0D=0A=
+                <td colspan=3D"3"><img src=3D"http://i55.tinypic.com/984myg.jpg"=
+ width=3D"691" /></td>=0D=0A            </tr>=0D=0A            <tr valign=3D"top"=
+ style=3D"height: 400px; vertical-align: top;">=0D=0A                <td>=
+=0D=0A                    <p style=3D" font-family: Arial; font-size: 15px;=
+ margin-right: 25px; text-align: right;"><span id=3D"lblCurrentDate">02=
+ Sep 2012</span></p>=0D=0A                    <p style=3D" font-family:=
+ Arial; font-size: 14px; margin-left: 30px;">Dear Applicant,</p>=0D=0A =
+                    <p style=3D" font-family: Arial; font-size: 14px; margin-left:=
+ 30px;">=0D=0A                        &nbsp;&nbsp; <span id=3D"lblContent">Below=
+ is your MRP Online login details:<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;User=
+ ID:&nbsp; <b>OA0000000018360</b> </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Password:&nbsp;=
+ <b>61418e</b> </span> =0D=0A                     </p>=0D=0A           =
+          <p style=3D" font-family: Arial; font-size: 14px;  margin-left:=
+ 30px;">&nbsp;&nbsp; Thank you.</p>=0D=0A                     <p style=3D"=
+ font-family: Arial; font-size: 15px; margin-left: 30px;">Officer In Charge=
+ <br />=0D=0A                        <span id=3D"lblDivision">Bangladesh=
+ Immigration and Passport Office</span> <br /> =0D=0A                </td>=
+=0D=0A                <td width=3D"5"></td>=0D=0A            </tr>=0D=0A=
+        </table>=0D=0A    </form>=0D=0A</body>=0D=0A</html>=0D=0A
+

@@ -1,0 +1,84 @@
+Return-path: <secbangladesh@yahoo.com>
+Envelope-to: ceoamcl@icbamcl.com.bd
+Delivery-date: Tue, 23 Oct 2012 06:10:26 -0400
+Received: from nm17-vm0.bullet.mail.bf1.yahoo.com ([98.139.213.157]:37889)
+	by cs53.centos-server.net with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <secbangladesh@yahoo.com>)
+	id 1TQbRJ-000095-Qg
+	for ceoamcl@icbamcl.com.bd; Tue, 23 Oct 2012 06:10:26 -0400
+Received: from [98.139.212.146] by nm17.bullet.mail.bf1.yahoo.com with NNFMP; 23 Oct 2012 10:10:24 -0000
+Received: from [98.139.215.253] by tm3.bullet.mail.bf1.yahoo.com with NNFMP; 23 Oct 2012 10:10:24 -0000
+Received: from [127.0.0.1] by omp1066.mail.bf1.yahoo.com with NNFMP; 23 Oct 2012 10:10:24 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 593217.37906.bm@omp1066.mail.bf1.yahoo.com
+Received: (qmail 6483 invoked by uid 60001); 23 Oct 2012 10:10:24 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1350987024; bh=x+EIo0pJDS0K4m8vrxgVhDk/ozYPhENJ+vHzJ6PclNo=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=0sx/QlYxniBeKxE4xlT5H7XxsGSSs8QqEebFy+KAZb4XHo85TL9uTd/gDWjObJipYm6Nm/Ruf8P8F6b/CCGRJgYv1t8NL+Z38U0RzcIy/yjVjC1RvLa9wZviL5SERMD77yarfatOYEmz6mv/PHD4+E3S3q2w+rFB+q1FCUsA2KU=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=js7B2EHrAsXARo0oJf6cucAKvFnrRmAzaz55kejxIvYkWUadYHLE+aikxs1NhQ0VRr7kcyZP4y/sss6Sk6OpeeRc4jN+b66yoIBco5X9OXQdw9+1zSpc+nZlgmQXbQJCwACHqyli0Z9vvGlHPWZCMGvIDu+cC13XwsHGkUZh7gQ=;
+X-YMail-OSG: 40P0ohEVM1lGrFsV54TkijtX0UdP._Ba.2i.Ynh91IzFzN3
+ mpFqNf_ZgrwEy8h2VLHytPoTIRnVZSx9.8pGPtc2ettjZxTaphE5Q2HVXnMF
+ fjEwodGvfZh_0n_lDVjlbAHnUDzdPPli8Oef4ZGEcwRHV7wW6rYUj0UYYyLL
+ wV2v5pdXVO.2FHuuS1HNP84LQllo6o489_jCFSOZYolGO1823.0igEln._7.
+ jbzpqTOB9XByaj3DedAYFKgr.1B_b7GK0MWpqhTSNXQ9xEpI5zBBH85zTjKV
+ G3SQHmHJ1TyDYcqa280rCY8jL15THfUjqkwnm5lW85_FEZWmiEHI6tRkDUYh
+ hTmFw0SB5BTBj9_iGjRKGWhVWGu_8fNocCGV.JrXEOefBo1bXIO3vxrEC84G
+ X8_bE06nVfdiy.wEmINFlHX3GTzMODSZ_S6.pauwTdafQN5FbraOIefjn2jY
+ F1QwPXzWl
+Received: from [123.49.2.158] by web161802.mail.bf1.yahoo.com via HTTP; Tue, 23 Oct 2012 03:10:24 PDT
+X-Rocket-MIMEInfo: 001.001,RGVhciBTaXIsIA0KDQpJIGdvdCB5b3VyIGUtbWFpbCBhYm91dCBjb21tZW50cyBvbiBBbWVuZG1lbnQgdG8gVGhlIFNlY3VyaXRpZXMgYW5kIEV4Y2hhbmdlIENvbW1pc3Npb24gKE11dHVhbCBGdW5kKSBSdWxlcywgMjAwMS4NCg0KVGhhbmtzIGZvciB5b3VyIENvLW9wZXJhdGlvbi4NCg0KVGhhbmtpbmcgWW91DQoNCg0KDQpSZXphdW4gTnVyIE1laGVkaQ0KUGVyc29uYWwgT2ZmaWNlcg0KQ01SUkMgRGVwYXJ0bWVudA0KU0VDDQoNCg0KDQotLS0gT24gVHVlLCAxMC8yMy8xMiwgY2VvYW1jbEBpY2JhbWNsLmMBMAEBAQE-
+X-Mailer: YahooMailClassic/15.0.8 YahooMailWebService/0.8.123.460
+Message-ID: <1350987024.3397.YahooMailClassic@web161802.mail.bf1.yahoo.com>
+Date: Tue, 23 Oct 2012 03:10:24 -0700 (PDT)
+From: Securities SEC <secbangladesh@yahoo.com>
+Subject: Re: Mutual fund Rules 2001 revised from ICB AMCL
+To: ceoamcl@icbamcl.com.bd
+In-Reply-To: <20121023050440.91424a5vh6zdp7zc@www.icbamcl.com.bd>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-2096837515-723877025-1350987024=:3397"
+
+---2096837515-723877025-1350987024=:3397
+Content-Type: text/plain; charset=us-ascii
+
+Dear Sir, 
+
+I got your e-mail about comments on Amendment to The Securities and Exchange Commission (Mutual Fund) Rules, 2001.
+
+Thanks for your Co-operation.
+
+Thanking You
+
+
+
+Rezaun Nur Mehedi
+Personal Officer
+CMRRC Department
+SEC
+
+
+
+--- On Tue, 10/23/12, ceoamcl@icbamcl.com.bd <ceoamcl@icbamcl.com.bd> wrote:
+
+From: ceoamcl@icbamcl.com.bd <ceoamcl@icbamcl.com.bd>
+Subject: Mutual fund Rules 2001 revised from ICB AMCL
+To: secbangladesh@yahoo.com
+Date: Tuesday, October 23, 2012, 2:04 AM
+
+Attn: Mr Noor Mehedi
+Personnel Offcier,
+CMRRC Dept.
+
+Dear Sir,
+Please find the attachment....
+
+Regards
+ICB AMCL
+
+---2096837515-723877025-1350987024=:3397
+Content-Type: text/html; charset=us-ascii
+
+<table cellspacing="0" cellpadding="0" border="0" ><tr><td valign="top" style="font: inherit;"><font color="#373e68">Dear Sir, <br><br>I got your e-mail about comments on Amendment to The Securities and Exchange Commission (<span class="yshortcuts" id="lw_1350986675_0">Mutual Fund</span>) Rules, 2001.<br><br>Thanks for your Co-operation.<br><br>Thanking You<br><br><br><br>Rezaun Nur Mehedi<br>Personal Officer<br>CMRRC Department<br>SEC</font><br><br><br><br>--- On <b>Tue, 10/23/12, ceoamcl@icbamcl.com.bd <i>&lt;ceoamcl@icbamcl.com.bd&gt;</i></b> wrote:<br><blockquote style="border-left: 2px solid rgb(16, 16, 255); margin-left: 5px; padding-left: 5px;"><br>From: ceoamcl@icbamcl.com.bd &lt;ceoamcl@icbamcl.com.bd&gt;<br>Subject: Mutual fund Rules 2001 revised from ICB AMCL<br>To: secbangladesh@yahoo.com<br>Date: Tuesday, October 23, 2012, 2:04 AM<br><br><div class="plainMail">Attn: Mr Noor Mehedi<br>Personnel Offcier,<br>CMRRC Dept.<br><br>Dear
+ Sir,<br>Please find the attachment....<br><br>Regards<br>ICB AMCL<br></div></blockquote></td></tr></table>
+---2096837515-723877025-1350987024=:3397--

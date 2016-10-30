@@ -1,0 +1,61 @@
+Return-path: <jikocse@yahoo.com>
+Envelope-to: dceo@icbamcl.com.bd
+Delivery-date: Tue, 13 Dec 2011 01:03:00 -0500
+Received: from nm32-vm6.bullet.mail.bf1.yahoo.com ([72.30.239.142])
+	by vm136.centos-server.net with smtp (Exim 4.69)
+	(envelope-from <jikocse@yahoo.com>)
+	id 1RaLS8-00065b-K1
+	for dceo@icbamcl.com.bd; Tue, 13 Dec 2011 01:03:00 -0500
+Received: from [98.139.215.141] by nm32.bullet.mail.bf1.yahoo.com with NNFMP; 13 Dec 2011 06:02:59 -0000
+Received: from [98.139.212.195] by tm12.bullet.mail.bf1.yahoo.com with NNFMP; 13 Dec 2011 06:02:59 -0000
+Received: from [127.0.0.1] by omp1004.mail.bf1.yahoo.com with NNFMP; 13 Dec 2011 06:02:59 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 449811.31298.bm@omp1004.mail.bf1.yahoo.com
+Received: (qmail 70058 invoked by uid 60001); 13 Dec 2011 06:02:59 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1323756179; bh=lPIIjC0dMJ1vRpLR2mZSzLFC8sarIUoJM3/WToZwFzY=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Subject:To:MIME-Version:Content-Type; b=6L0Vbr+sSjFrgJ7WNPObT/LzRK8dLM5G6DZs2Y0bnDq8cCSwRkD53O+hrgg3GHO6kbO+uu5V79wroNAgBIKH3TE22qkTnkgTzmu838hRzRD5cpvGZGq+xkPNhWhzFu1n3A+C1DxRFkJrIoLrlEvm1PUvAhTVKcaACBapjv5k3OM=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Subject:To:MIME-Version:Content-Type;
+  b=QZqNA86coB9Eamqt8jiIaBpbtvMykhkCQVWIFJSnEWZ9EBMB2q8WIXudDZgBacSUdMgsBwQOVtQ0yf54I9xFsUxODOyH+ghz4I0XoFD67N/O6QynkChNY6rOjEE7XJkR1FD+yvXroCRVfCNl6ZvBJj50fn45DDqnCnTm6cBSy4w=;
+X-YMail-OSG: 8zKk19cVM1nuYC3BGlxdD0yTKwj4gsFUSgxPlnSKuRuBGVO
+ vMEkPr4lSo3gX33H7oVbFjuOu72lcHGipV_pjUy31Mlx_A77VZvmDA3zIcu4
+ O46HtnAG1RW7I0Ncm2KLaOltvrxZlOo3Ly_JJY9k7rFxjFqFomgzG0d_jnw_
+ y7G0dSbyh55eyFbECngOQLKfWQAMW4DAJd0.bdkJNnoNvsH3s0c0pIXOSCnb
+ us4okApJ0OSiZa9_W5LeWF9EDV5780RfrB1ZBWHhTlv35JgTXZ0wO2mMZJSe
+ Jm_ieT5uhNmvn18Zy8U6Gfi71cdPp4q3mHcxhG8LUbOUF_2.gN0wecAP5Y_R
+ 9om03DLOIc73xb9yNWbH42CzL9Q0zkqK45130hplgeIEYEw49g3l3J4jsxHk
+ gwK81xbfN5BVnh8WV.ZnKPobxfG0MY4YrfOMxUcqrGH4ymVeULqajbjaa2mW
+ jgS_0GmIfETA_zQT_0ccxroAUjx7nL7xhEAGCdis-
+Received: from [123.11.244.199] by web161802.mail.bf1.yahoo.com via HTTP; Mon, 12 Dec 2011 22:02:59 PST
+X-Mailer: YahooMailClassic/15.0.4 YahooMailWebService/0.8.115.331698
+Message-ID: <1323756179.69827.YahooMailClassic@web161802.mail.bf1.yahoo.com>
+Date: Mon, 12 Dec 2011 22:02:59 -0800 (PST)
+From: "Md. Mahbub Alam" <jikocse@yahoo.com>
+Subject: Hi, how are you!
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-2096837515-2075327215-1323756179=:69827"
+
+---2096837515-2075327215-1323756179=:69827
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=A0
+Hi, how are you!
+I bought a computer and have received it. The price=20
+is very low.Here is their website: www.ausukk.com. You could seek=20
+something on it.
+
+---2096837515-2075327215-1323756179=:69827
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;"><A style=3D"TEXT-DECORATION: none" href=3D"ht=
+tp://www.ausukk.com/"><FONT color=3D#000000>&nbsp;
+<DIV>Hi, how are you!</DIV>
+<DIV>I bought a computer and have received it. The price </DIV>
+<DIV>is very low.Here is their website: <FONT color=3D#ff0000>www.ausukk.co=
+m</FONT>. You could seek </DIV>
+<DIV>something on it.<BR></DIV></FONT></A></td></tr></table>
+---2096837515-2075327215-1323756179=:69827--

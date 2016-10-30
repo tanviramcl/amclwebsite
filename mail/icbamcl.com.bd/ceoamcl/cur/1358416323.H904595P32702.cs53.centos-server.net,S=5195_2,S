@@ -1,0 +1,179 @@
+Return-path: <>
+Envelope-to: ceoamcl@icbamcl.com.bd
+Delivery-date: Thu, 17 Jan 2013 15:52:03 +0600
+Received: from smtp.connectbd.com ([202.79.16.16]:42713)
+	by cs53.centos-server.net with esmtp (Exim 4.80)
+	id 1Tvm8h-0008V9-7w
+	for ceoamcl@icbamcl.com.bd; Thu, 17 Jan 2013 15:52:03 +0600
+Received: by smtp.connectbd.com (Postfix)
+	id B77CDCF4F11; Thu, 17 Jan 2013 14:53:26 +0600 (BDT)
+Date: Thu, 17 Jan 2013 14:53:26 +0600 (BDT)
+From: MAILER-DAEMON@smtp.connectbd.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ceoamcl@icbamcl.com.bd
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="2720DCF4F0D.1358412806/smtp.connectbd.com"
+Message-Id: <20130117085326.B77CDCF4F11@smtp.connectbd.com>
+
+This is a MIME-encapsulated message.
+
+--2720DCF4F0D.1358412806/smtp.connectbd.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host smtp.connectbd.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<silver&goldre@hotmail.com>: host mx4.hotmail.com[65.54.188.94] said: 550
+    Requested action not taken: mailbox unavailable (in reply to RCPT TO
+    command)
+
+--2720DCF4F0D.1358412806/smtp.connectbd.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; smtp.connectbd.com
+X-Postfix-Queue-ID: 2720DCF4F0D
+X-Postfix-Sender: rfc822; ceoamcl@icbamcl.com.bd
+Arrival-Date: Thu, 17 Jan 2013 14:53:24 +0600 (BDT)
+
+Final-Recipient: rfc822; silver&goldre@hotmail.com
+Original-Recipient: rfc822;silver&goldre@hotmail.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mx4.hotmail.com
+Diagnostic-Code: smtp; 550 Requested action not taken: mailbox unavailable
+
+--2720DCF4F0D.1358412806/smtp.connectbd.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Received: from SA (unknown [202.79.21.130])
+	by smtp.connectbd.com (Postfix) with ESMTP id 2720DCF4F0D
+	for <silver&goldre@hotmail.com>; Thu, 17 Jan 2013 14:53:24 +0600 (BDT)
+From: "ICB AMCL" <ceoamcl@icbamcl.com.bd>
+To: <silver&goldre@hotmail.com>
+Subject: SB. A/C. No. 
+Date: Thu, 17 Jan 2013 15:52:07 +0600
+Message-ID: <001a01cdf498$509f35b0$f1dda110$@com.bd>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001B_01CDF4CA.9B39A5B0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac30mE9WA9Gb0OiSTT6imeAtD7AguQ==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_001B_01CDF4CA.9B39A5B0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Md. Alauddin Khan
+
+SB. A/C. No. 1001 115938 031
+
+International Finance Investment & Commerce Bank Ltd (IFIC Bank)
+
+Motijheel (120274240), Dhaka, 
+
+Bangladesh. 
+
+
+------=_NextPart_000_001B_01CDF4CA.9B39A5B0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal>Md. Alauddin Khan<o:p></o:p></p>
+
+<p class=3DMsoNormal>SB. A/C. No. 1001 115938 031<o:p></o:p></p>
+
+<p class=3DMsoNormal>International Finance Investment &amp; Commerce =
+Bank Ltd (IFIC
+Bank)<o:p></o:p></p>
+
+<p class=3DMsoNormal>Motijheel (120274240), Dhaka, <o:p></o:p></p>
+
+<p class=3DMsoNormal>Bangladesh. <o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_001B_01CDF4CA.9B39A5B0--
+
+
+--2720DCF4F0D.1358412806/smtp.connectbd.com--

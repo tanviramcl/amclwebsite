@@ -1,0 +1,57 @@
+Return-path: <>
+Envelope-to: ceoamcl@icbamcl.com.bd
+Delivery-date: Sun, 09 Oct 2011 03:11:18 -0400
+Received: from col0-omc2-s15.col0.hotmail.com ([65.55.34.89])
+	by vm136.centos-server.net with esmtp (Exim 4.69)
+	id 1RCnXa-0003fj-Lw
+	for ceoamcl@icbamcl.com.bd; Sun, 09 Oct 2011 03:11:18 -0400
+Received: from COL0-MC1-F15.Col0.hotmail.com ([65.55.34.72]) by col0-omc2-s15.col0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Sun, 9 Oct 2011 00:11:11 -0700
+From: postmaster@hotmail.com
+To: ceoamcl@icbamcl.com.bd
+Date: Sun, 9 Oct 2011 00:11:12 -0700
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01CC844C11709AB8000FC507COL0?MC1?F15.Col"
+X-DSNContext: 335a7efd - 4480 - 00000001 - 80040546
+Message-ID: <4sh5BvAx70002bfc6@COL0-MC1-F15.Col0.hotmail.com>
+Subject: Delivery Status Notification (Failure)
+X-OriginalArrivalTime: 09 Oct 2011 07:11:11.0562 (UTC) FILETIME=[9FEF92A0:01CC8652]
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01CC844C11709AB8000FC507COL0?MC1?F15.Col
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       abul.mumbin@hotmail.com
+
+
+
+
+--9B095B5ADSN=_01CC844C11709AB8000FC507COL0?MC1?F15.Col
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;COL0-MC1-F15.Col0.hotmail.com
+Received-From-MTA: dns;vm136.centos-server.net
+Arrival-Date: Sun, 9 Oct 2011 00:11:08 -0700
+
+Final-Recipient: rfc822;abul.mumbin@hotmail.com
+Action: failed
+Status: 5.5.0
+Diagnostic-Code: smtp;550 Requested action not taken: mailbox unavailable (-1992558197:3608:-2147467259)
+
+--9B095B5ADSN=_01CC844C11709AB8000FC507COL0?MC1?F15.Col
+Content-Type: text/rfc822-headers
+
+From:  ceoamcl@icbamcl.com.bd
+To:  fbcci@bol-online.com
+Message-ID:  <20111009031030.18372g1lss2zzjl2@icbamcl.com.bd>
+Subject:  Invitation: Inaugural ceremony of selling units of Bangladesh Fund
+
+
+--9B095B5ADSN=_01CC844C11709AB8000FC507COL0?MC1?F15.Col--

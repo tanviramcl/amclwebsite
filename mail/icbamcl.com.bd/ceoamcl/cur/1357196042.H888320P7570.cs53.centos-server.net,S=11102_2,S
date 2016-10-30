@@ -1,0 +1,153 @@
+Return-path: <makjasir@yahoo.com>
+Envelope-to: ceoamcl@icbamcl.com.bd
+Delivery-date: Thu, 03 Jan 2013 01:54:02 -0500
+Received: from nm28-vm2.bullet.mail.gq1.yahoo.com ([98.136.216.161]:24416)
+	by cs53.centos-server.net with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <makjasir@yahoo.com>)
+	id 1Tqegk-0001wB-GC
+	for ceoamcl@icbamcl.com.bd; Thu, 03 Jan 2013 01:54:02 -0500
+Received: from [98.137.12.58] by nm28.bullet.mail.gq1.yahoo.com with NNFMP; 03 Jan 2013 06:54:00 -0000
+Received: from [98.137.12.240] by tm3.bullet.mail.gq1.yahoo.com with NNFMP; 03 Jan 2013 06:54:00 -0000
+Received: from [127.0.0.1] by omp1048.mail.gq1.yahoo.com with NNFMP; 03 Jan 2013 06:54:00 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 575353.23226.bm@omp1048.mail.gq1.yahoo.com
+Received: (qmail 91282 invoked by uid 60001); 3 Jan 2013 06:54:00 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1357196040; bh=qotQPcPboHykLt8lpcXowy8AeMhBBUS8pZuy2ocjNig=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=yMSbpDo4dhToWbXxd0LlTZ8HWZVt1oQwFZRL6t1d5BB+yd/C+sw+B4z4P02C/TJWqbPGbGnr2BSwJtFtXkK4yqCJiSyJl/dNj+zbspTCeE14DqgNfk16hXFjQhjhzOwpsqaPY23kMPxuGSyK2nfQ8YvLCw9S0rP06CHN0ux8JJk=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=XD+ScZGZgDqse9Zx97Cjk6HwUCE6hEpuAochgqxIpteYYX5omZjQsGKZJqvol+HpP1aIFxu3PxsRTW99+3w83D9dQa8+BK+exQsR+5ZV2iG3fvJP7BSQp/ep+9RF3qDqPZysaU6YZ9xMooQVFRzy7U+Bm5kQAyPfhYq7eSXcFwU=;
+X-YMail-OSG: qrDD608VM1nnfS5P8DAJ8mz8t6XLy9HkYpw_BTW8X2gYv_s
+ aMskBj41aJvtmiqe2BHOc9MRTaztZmR9gXxD_pgb7eQOdPWHF.QtMbp0Mtoc
+ 9N.2q_s84MVlEXvcx5tUYmNW72N5izk64VZED2UCiO1L.CuIKqpjXWVrk1lV
+ BbpVOUGQ0JQUXudYkAvNdePaqU3Q7qcT9AYkCp3ldA.sHJiQvKUukqAT6Sek
+ hKniNFRls9cvQQwnyBM8NG5WnZ008zVt2l5jwM1UAarAD1_dtYysDgbhaWod
+ GJfb1GNEeniudjbfTf6QC6TL4GZgyGbNzEejRcxi_ipBKyvzhUwp3h_J8lVT
+ Ch3BQpUY8TxRo2zpO9uc79n_7KnYZNwrKYN6Drjq47jHEArEzTCPiNXgiYLP
+ xx7QPtGsYZwfQkSFgwErFlKVZzrlcHqvftnLrsc5MTDgIs4sOxlSkBdyIxSn
+ c5F5vchLX3rIOx_4q7QlJdJ8RWQ8Oda4sP7dGh5Ie_f5_hJPJJswtOwFSBQ-
+ -
+Received: from [223.27.88.26] by web164005.mail.gq1.yahoo.com via HTTP; Wed, 02 Jan 2013 22:53:59 PST
+X-Rocket-MIMEInfo: 001.001,VGhhbmtzIGZvciB0aGUgbWFpbC4KSSBhbSBpbiBEaGFrYSBub3cgdGlsbCBFbmQgb2YgSmFuLiBJIHdvdWxkIGxpa2UgdG8gbWVldCB3aXRoIHRvIGRpc2N1c3MgZGV0YWlscy4gCgpJIHdpbGwgYXBwcmVjaWF0ZSwgaWYgeW91IGdpdmUgeW91ciBhbmQgTUQgb2YgSUNCIGFuIGFwcG9pbnRtZW50IGFmdGVyIEphbi4gMTMuCkhvcGUgdG8gbWVldCB3aXRoIHlvdSB2ZXJ5IHNvb24uCgoKwqAKTWQuIEFuaXN1bCBLYWJpciBKYXNpcgpDRU8KTlJCIEJ1c2luZXNzIE5ldHdvcmsKJiAKCkNvbnN1bHRhbnQKQklQT04BMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.129.483
+References: <20130103010609.870431p7qqzturip@cs53.centos-server.net>
+Message-ID: <1357196039.91148.YahooMailNeo@web164005.mail.gq1.yahoo.com>
+Date: Wed, 2 Jan 2013 22:53:59 -0800 (PST)
+From: Muhammed Kabir <makjasir@yahoo.com>
+Reply-To: Muhammed Kabir <makjasir@yahoo.com>
+Subject: Re: Different documents of Bangladesh Fund.
+To: "ceoamcl@icbamcl.com.bd" <ceoamcl@icbamcl.com.bd>
+In-Reply-To: <20130103010609.870431p7qqzturip@cs53.centos-server.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1802851953-1238497557-1357196039=:91148"
+
+---1802851953-1238497557-1357196039=:91148
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Thanks for the mail.=0AI am in Dhaka now till End of Jan. I would like to m=
+eet with to discuss details. =0A=0AI will appreciate, if you give your and =
+MD of ICB an appointment after Jan. 13.=0AHope to meet with you very soon.=
+=0A=0A=0A=A0=0AMd. Anisul Kabir Jasir=0ACEO=0ANRB Business Network=0A& =0A=
+=0AConsultant=0ABIPONON=0ANew York=0A212 470 2477 =0A=0ADhaka Mobile # 0191=
+1 351 603=0A=0A=0ASecretary and UN Rep.=0ADhaka Ahsania Mission USA=0AJoint=
+ Secretary=0ABangladeshi American Public Affairs Front (BAPAF)=0A=A0=0AConf=
+identiality: This e-mail transmission, and any attached documents, or previ=
+ous e-mail messages attached to it, may contain confidential information. I=
+f you are not the intended recipient, or received in error, please immediat=
+ely notify by reply e-mail at makjasir@yahoo.com, and destroy the original =
+transmission and its attachments.=A0 Sorry for any inconvenience and thank =
+you for your cooperation.=0A=0A=0A________________________________=0A From:=
+ "ceoamcl@icbamcl.com.bd" <ceoamcl@icbamcl.com.bd>=0ATo: nrbnetwork@gmail.c=
+om; makjasir@yahoo.com =0ACc: iamshamol@yahoo.com =0ASent: Thursday, Januar=
+y 3, 2013 12:06 PM=0ASubject: Different documents of Bangladesh Fund.=0A =
+=0AMr. Md. Anisul Kabir Jasir,=0AConsultant=0ABIPONON=0ANew York, U.S.A.=0A=
+=0ADear Sir,=0A=0AWe are sending the enclosed attachments for taking necess=
+ary action at your end.=0A=0AThanking you.=0A=0ASincerely yours,=0A=0AMd. A=
+lauddain Khan=0AChief Executive Officer=0AICB Asset Management Company Ltd.
+---1802851953-1238497557-1357196039=:91148
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:14pt">Thanks for the mail.<=
+br>I am in Dhaka now till End of Jan. I would like to meet with to discuss =
+details. <br><br>I will appreciate, if you give your and MD of ICB an appoi=
+ntment after Jan. 13.<br>Hope to meet with you very soon.<br><div><span><br=
+></span></div><div>&nbsp;</div><div><font size=3D"2"><span style=3D"FONT-WE=
+IGHT:bold;"><font size=3D"3">Md. Anisul Kabir Jasir</font></span></font></d=
+iv><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: times n=
+ew roman,new york,times,serif; background-color: transparent; font-style: n=
+ormal;"><font size=3D"2"><font size=3D"2">CEO</font></font></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: times new roman,new =
+york,times,serif; background-color: transparent; font-style: normal;"><font=
+ size=3D"2"><font size=3D"2"><font size=3D"2">NRB <font size=3D"2">Busin<fo=
+nt size=3D"2">ess
+ Network</font></font></font></font></font></div><div style=3D"color: rgb(0=
+, 0, 0); font-size: 13px; font-family: times new roman,new york,times,serif=
+; background-color: transparent; font-style: normal;"><font size=3D"2"><fon=
+t size=3D"2"><font size=3D"2"><font size=3D"2"><font size=3D"2"><font size=
+=3D"2">&amp; <br></font></font></font></font></font></font></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: times new roman,new =
+york,times,serif; background-color: transparent; font-style: normal;"><font=
+ size=3D"2"><font size=3D"2"><font size=3D"2"><font size=3D"2"><font size=
+=3D"2"><font size=3D"2"><font size=3D"2">Consultant</font></font></font></f=
+ont></font></font></font></div><div style=3D"color: rgb(0, 0, 0); font-size=
+: 13px; font-family: times new roman,new york,times,serif; background-color=
+: transparent; font-style: normal;"><font size=3D"2"><font size=3D"2"><font=
+ size=3D"2"><font size=3D"2"><font size=3D"2"><font size=3D"2"><font size=
+=3D"2"><font
+ size=3D"2">BIPONON</font></font></font></font></font></font></font></font>=
+</div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: time=
+s new roman,new york,times,serif; background-color: transparent; font-style=
+: normal;"><font size=3D"2"><font size=3D"2"><font size=3D"2"><font size=3D=
+"2"><font size=3D"2"><font size=3D"2"><font size=3D"2"><font size=3D"2"><fo=
+nt size=3D"2">New York</font></font></font></font></font></font></font></fo=
+nt></font></div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font-fa=
+mily: times new roman,new york,times,serif; background-color: transparent; =
+font-style: normal;"><font size=3D"2"><font size=3D"2"><font size=3D"2"><fo=
+nt size=3D"2"><font size=3D"2"><font size=3D"2"><font size=3D"2"><font size=
+=3D"2"><font size=3D"2"></font></font></font></font></font></font></font></=
+font></font><font size=3D"2"><span style=3D"FONT-WEIGHT:bold;"><i>212 470 2=
+477</i> <br></span></font></div><div style=3D"color: rgb(0, 0, 0); font-siz=
+e: 16px; font-family: times new roman,new
+ york,times,serif; background-color: transparent; font-style: normal;"><fon=
+t size=3D"2"><span style=3D"FONT-WEIGHT:bold;"><font size=3D"2">Dhaka Mobil=
+e # 01911 351 603</font><br></span></font></div><div><font size=3D"2"><span=
+ style=3D"FONT-WEIGHT:bold;"></span><br><span style=3D"FONT-STYLE:italic;">=
+Secretary and UN Rep.</span><br><span style=3D"FONT-WEIGHT:bold;">Dhaka Ahs=
+ania Mission USA</span><br><span style=3D"FONT-STYLE:italic;">Joint Secreta=
+ry</span><br><span style=3D"FONT-WEIGHT:bold;">Bangladeshi American Public =
+Affairs Front (BAPAF)</span></font></div><div>&nbsp;</div><div style=3D"MAR=
+GIN:0in 0in 0pt;" class=3D"Normal1"><i><strong><font style=3D"BACKGROUND-CO=
+LOR:#ffff00;"><span class=3D"yshortcuts"><span class=3D"yui_3_7_2_15_135719=
+5440810_75" style=3D"FONT-FAMILY:Arial;COLOR:#1f497d;FONT-SIZE:11pt;"><font=
+ color=3D"#ff0000">Confidentiality</font></span></span><span class=3D"yui_3=
+_7_2_15_1357195440810_76" style=3D"FONT-FAMILY:Arial;COLOR:#1f497d;FONT-SIZ=
+E:11pt;"><font
+ color=3D"#ff0000">: This e-mail transmission, and any attached documents, =
+or previous e-mail messages attached to it, may contain <span style=3D"BACK=
+GROUND-ATTACHMENT:scroll;BACKGROUND-POSITION:0% 0%;CURSOR:hand;" id=3D"lw_1=
+284356622_3"><span class=3D"yshortcuts">confidential information</span></sp=
+an>. If you are not the intended recipient, or received in error, please im=
+mediately notify by reply e-mail at makjasir@yahoo.com, and destroy the ori=
+ginal transmission and its attachments.&nbsp; Sorry for any inconvenience a=
+nd thank you for your cooperation</font>.</span></font></strong></i></div><=
+div><br></div>  <div style=3D"font-family: times new roman, new york, times=
+, serif; font-size: 14pt;"> <div style=3D"font-family: times new roman, new=
+ york, times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <font face=3D"Ari=
+al" size=3D"2"> <hr size=3D"1">  <b><span style=3D"font-weight:bold;">From:=
+</span></b> "ceoamcl@icbamcl.com.bd" &lt;ceoamcl@icbamcl.com.bd&gt;<br> <b>=
+<span
+ style=3D"font-weight: bold;">To:</span></b> nrbnetwork@gmail.com; makjasir=
+@yahoo.com <br><b><span style=3D"font-weight: bold;">Cc:</span></b> iamsham=
+ol@yahoo.com <br> <b><span style=3D"font-weight: bold;">Sent:</span></b> Th=
+ursday, January 3, 2013 12:06 PM<br> <b><span style=3D"font-weight: bold;">=
+Subject:</span></b> Different documents of Bangladesh Fund.<br> </font> </d=
+iv> <br>=0AMr. Md. Anisul Kabir Jasir,<br>Consultant<br>BIPONON<br>New York=
+, U.S.A.<br><br>Dear Sir,<br><br>We are sending the enclosed attachments fo=
+r taking necessary action at your end.<br><br>Thanking you.<br><br>Sincerel=
+y yours,<br><br>Md. Alauddain Khan<br>Chief Executive Officer<br>ICB Asset =
+Management Company Ltd.<br><br><br> </div> </div>  </div></body></html>
+---1802851953-1238497557-1357196039=:91148--

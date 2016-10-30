@@ -1,0 +1,48 @@
+Return-path: <icmlraj@gmail.com>
+Envelope-to: dceo@icbamcl.com.bd
+Delivery-date: Mon, 14 Feb 2011 01:15:48 -0500
+Received: from mail-fx0-f47.google.com ([209.85.161.47])
+	by vm136.centos-server.net with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.69)
+	(envelope-from <icmlraj@gmail.com>)
+	id 1Poriu-0007Hv-LY
+	for dceo@icbamcl.com.bd; Mon, 14 Feb 2011 01:15:48 -0500
+Received: by fxm17 with SMTP id 17so4687316fxm.34
+        for <dceo@icbamcl.com.bd>; Sun, 13 Feb 2011 22:15:36 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=MH/HuGVe1TMF0ZxmTzvoWuFL9c0AwBCOF4HO+DBHjXw=;
+        b=atYUsASTeeiHauV00HiaxCbfJ/BU50yczUE+uHbDoORGoiUi0BuEjw9noqsbs8IoBu
+         ZJdrlEVfH3IN7sKjyaPvxwItrOYInOrT3zDeLTLi6SoNwyBfrz2lUB+gIo7ZkqgS4tqG
+         brm9AxKQuYnRKyS6iIN0wFhaOw0GIWiYWEmc4=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=oNGg8LsBP3Keog4URiFB2xPE9U32PUUN6AX+t2miT9GBOfnhT9Qt1YQ10gtfic6gSk
+         gleZDw9inleeykt7J9SkZFIbY7cutfQotwukXCd8LhWuOCyBKtteX3FAE8AoNi9vnJDd
+         ZS/B/l+lJi7OcR1/+hyaiUGPuUzMF77IoC5ts=
+MIME-Version: 1.0
+Received: by 10.223.96.6 with SMTP id f6mr3996223fan.22.1297664135979; Sun, 13
+ Feb 2011 22:15:35 -0800 (PST)
+Received: by 10.223.72.202 with HTTP; Sun, 13 Feb 2011 22:15:35 -0800 (PST)
+Date: Mon, 14 Feb 2011 12:15:35 +0600
+Message-ID: <AANLkTik2TQ5ivRxmkrqrvfTt1anozU0vX_j5Wgga_Y5G@mail.gmail.com>
+Subject: Submission of Share Holding Position of Prime Finance 1st MF as on 08/02/2011
+From: Raj ICML <icmlraj@gmail.com>
+To: dceo@icbamcl.com.bd
+Content-Type: text/plain; charset=ISO-8859-1
+
+Sir ,
+
+With Reference to your letter No:ICB AMCL/Prime Fin1st MF/Divi
+FY-2010/1142/19 , Date : 10/02/2011 , We are submitting the share
+holding position of the Prime Finance 1st MF  as on 08/02/11 of our
+Investment Account.
+
+Sincerely Yours
+
+Md. Shahabuddin Bhuiyan
+Branch-in-Charge
+ICML , Rajshahi.

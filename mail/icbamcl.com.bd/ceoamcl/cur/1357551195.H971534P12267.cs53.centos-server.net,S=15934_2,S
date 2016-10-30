@@ -1,0 +1,214 @@
+Return-path: <arif_du_ph@yahoo.com>
+Envelope-to: ceoamcl@icbamcl.com.bd
+Delivery-date: Mon, 07 Jan 2013 04:33:15 -0500
+Received: from nm36-vm3.bullet.mail.ne1.yahoo.com ([98.138.229.115]:31581)
+	by cs53.centos-server.net with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <arif_du_ph@yahoo.com>)
+	id 1Ts951-0003Bh-Ps
+	for ceoamcl@icbamcl.com.bd; Mon, 07 Jan 2013 04:33:15 -0500
+Received: from [98.138.90.51] by nm36.bullet.mail.ne1.yahoo.com with NNFMP; 07 Jan 2013 09:33:14 -0000
+Received: from [98.138.87.6] by tm4.bullet.mail.ne1.yahoo.com with NNFMP; 07 Jan 2013 09:33:14 -0000
+Received: from [127.0.0.1] by omp1006.mail.ne1.yahoo.com with NNFMP; 07 Jan 2013 09:33:14 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 492992.95710.bm@omp1006.mail.ne1.yahoo.com
+Received: (qmail 39079 invoked by uid 60001); 7 Jan 2013 09:33:14 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1357551194; bh=3Gxtvxu8ZsWM1v4F8l8V8DX8grOqjvl7PkAAPB/dB0U=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=S5eI1faw0ublEZbuNVhoFTaM+AtO4MkmKjprndJmY9nwkgbbYX7vSYpyQDKhMWKkAKwmZL3QsFMcx9Ju2IZt302OwUnFwRDEpJ+AkIQr6T736veCsZuVyZKB/RX/2RLWzCjE/M3ERtKQtAiHPFv8CJry9pyDskaLkQ4Q2ItixGc=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=mKYGqKwjf7vQEQHK1p54XcgDG+jVHflCOlIUemo3VndTcBqWNGiYiNcC5e6RscQnyDeUMFpt1fZnXoM1aVWAbqGoxnVbKCXeuLI6LEODhe0McGZGJ84SrJHFIEMDDBZdKfUkMGdjsit7jPOkbv2cVXGHsHYkY0z1lz7LT3AqdS4=;
+X-YMail-OSG: y53vSQIVM1lYhI3xFdKPZTA5ocD89W4q_smUhrgphHAWKni
+ YuGNr5HjVZWpjDEfm53cE2puZJWNXPtnDPMFYXG3AL2BtrztpRsz3kHL5vG1
+ YFmFV8ebi7PUH.9PmA5rr01GV0FYVj5nWFHoBBU3EodjgoZkXu46WH0vgGH2
+ 0taCQUM48PR29c.MegUHQn95DyL1sVqYsN8rznLZAveshp2fKOIoZS3PXwqa
+ 73skJg3RjYK1dZn3GLcnD57Xebp7rnm7zGHBNyVGrI1swADI4SB4hsj2dINB
+ VqFZj_8mCWRiNuqduwPblauLelojTG5c_iViSYgqkY2bpxR.kLfcXxO5HnpT
+ M.EX7X0jrjyDpm5kRGbLh8QlSbKCt8zhK6ZiFcbxvzURq1HudiJxS8qP9l7k
+ nbT2IodLIU_mGDvS7Fcx17zTREMIZmchSIqixOV2CBKqKJveCNPoBFzQ5u77
+ wAZjj2sFS43LSPMCYj5.ycldGJnjJKLCJygFyaUTBP8HaHjWwhswdA79zdht
+ x
+Received: from [202.84.36.18] by web122605.mail.ne1.yahoo.com via HTTP; Mon, 07 Jan 2013 01:33:14 PST
+X-Rocket-MIMEInfo: 001.001,UmVzcGVjdGVkIHNpciwKCkFzc2FsYW11IGFsYWlrdW0uCldlIGFyZSBnb2luZyB0byBkZXZlbG9wIGEgcHJvamVjdCByZXBvcnQgb24gCuKAnEEgR3Jvd3RoClN0cmF0ZWd5IGZvciBDb21wYW5pZXMgT3BlcmF0aW5nIGluIHRoZSBFcXVpdHkgQ2FwaXRhbCBNYXJrZXQgaW4gCkJhbmdsYWRlc2jigJ0uIEhlbmNlLCB3ZSB3b3VsZCBsaWtlIHRvIHNlZWsgeW91ciBpbnZhbHVhYmxlIGNvbW1lbnRzIGFzIGFuIApkaXN0aW5ndWlzaGVkIGV4cGVydCBvZiB0aGUgZXF1aXR5IG1hcmtldCB3aGljaAp3aWxsIGhlbHABMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.130.494
+Message-ID: <1357551194.37137.YahooMailNeo@web122605.mail.ne1.yahoo.com>
+Date: Mon, 7 Jan 2013 01:33:14 -0800 (PST)
+From: mdariful islam <arif_du_ph@yahoo.com>
+Reply-To: mdariful islam <arif_du_ph@yahoo.com>
+Subject: Request for Kind Comments on Equity Capital Market
+To: "ceoamcl@icbamcl.com.bd" <ceoamcl@icbamcl.com.bd>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1778881473-302424966-1357551194=:37137"
+
+--1778881473-302424966-1357551194=:37137
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Respected sir,=0A=0AAssalamu alaikum.=0AWe are going to develop a project r=
+eport on =0A=E2=80=9CA Growth=0AStrategy for Companies Operating in the Equ=
+ity Capital Market in =0ABangladesh=E2=80=9D. Hence, we would like to seek =
+your invaluable comments as an =0Adistinguished expert of the equity market=
+ which=0Awill help us develop the growth strategy.=0A=0AWith reference to t=
+he telephonic conversation please find below the proposed questionnaire:=0A=
+=0A1. Who=0Aare the key players of the equity market?=0A2. What=0Ais the cu=
+rrent status of the equity market?=0A3. What=0Awas your strategy before and=
+ immediately after the market crashed on 2010?=0A4. Did=0Ayou anticipate so=
+mething like that? If yes then what was the reason?=0A5. How=0Ado your clie=
+nts react during the market fall and how did you tackle them?=0A6. What=0Ai=
+s your current market strategy?=0A=0A7. How=0Ado you attract people to do b=
+usiness with you?=0A=0A8. Where=0Ado you see the market is going?=0A9. How=
+=0Aeasy or difficult it is for companies to make a new entry in the equity =
+market?=0A=0A10. What=0Aare your suggestions for any new company in the equ=
+ity market? =0A=0A11. What=0Ado you think the government=E2=80=99s steps sh=
+ould be in the current market scenario?=0A=0AI would like to humbly request=
+ you to give us your precious comments/remarks on the above mentioned point=
+s.=0A=0ALooking forward to your earliest possible kind cooperation in this =
+regard.=C2=A0=0A=0AThanking you and very best regards,=0A=0AMd. Ariful Isla=
+m=0A12th Batch, EMBA=0AIBA, University of Dhaka.=0APhone: +8801726829149=0A=
+E-mail: arif_du_ph@yahoo.com=0A=0A=0A8.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=0A9.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=0A
+--1778881473-302424966-1357551194=:37137
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div>Respected sir,</=
+div><div><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font=
+-family: times new roman,new york,times,serif; background-color: transparen=
+t; font-style: normal;">Assalamu alaikum.</div><div style=3D"color: rgb(0, =
+0, 0); font-size: 16px; font-family: times new roman,new york,times,serif; =
+background-color: transparent; font-style: normal;"><br></div><span style=
+=3D"font-size:12.0pt;line-height:115%;=0Afont-family:&quot;Times New Roman&=
+quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;=
+;=0Amso-fareast-theme-font:minor-fareast;mso-ansi-language:EN-US;mso-fareas=
+t-language:=0AEN-US;mso-bidi-language:BN">We are going to develop a project=
+ report on =0A=E2=80=9CA Growth=0AStrategy for Companies Operating in the E=
+quity Capital Market in =0ABangladesh=E2=80=9D. Hence, we would like to see=
+k your invaluable comments as an =0Adistinguished expert of the equity mark=
+et which=0Awill help us develop the growth strategy.</span><div style=3D"co=
+lor: rgb(0, 0, 0); font-size: 16px; font-family: times new roman,new york,t=
+imes,serif; background-color: transparent; font-style: normal;"><br></div><=
+div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: times new r=
+oman,new york,times,serif; background-color: transparent; font-style: norma=
+l;">With reference to the telephonic conversation please find below the pro=
+posed questionnaire:</div><div style=3D"color: rgb(0, 0, 0); font-size: 16p=
+x; font-family: times new roman,new york,times,serif; background-color: tra=
+nsparent; font-style: normal;"><br></div><div style=3D"color: rgb(0, 0, 0);=
+ font-size: 16px; font-family: times new roman,new york,times,serif; backgr=
+ound-color: transparent; font-style: normal;"><span style=3D"font-size:12.0=
+pt;line-height:150%;font-family:&quot;Times New Roman&quot;,&quot;serif&quo=
+t;">1. Who=0Aare the key players of the equity market?</span></div><div sty=
+le=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: times new roman,ne=
+w york,times,serif; background-color: transparent; font-style: normal;"><sp=
+an style=3D"font-size:12.0pt;line-height:150%;font-family:&quot;Times New R=
+oman&quot;,&quot;serif&quot;">2. What=0Ais the current status of the equity=
+ market?</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; fo=
+nt-family: times new roman,new york,times,serif; background-color: transpar=
+ent; font-style: normal;"><span style=3D"font-size:12.0pt;line-height:150%;=
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3. What=0Awas yo=
+ur strategy before and </span><span style=3D"font-size:12.0pt;line-height:1=
+50%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style=
+=3D"font-size:12.0pt;line-height:150%;font-family:&quot;Times New Roman&quo=
+t;,&quot;serif&quot;">immediately after</span> the market crashed on 2010?<=
+/span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family=
+: times new roman,new york,times,serif; background-color: transparent; font=
+-style: normal;"><span style=3D"font-size:12.0pt;line-height:150%;font-fami=
+ly:&quot;Times New Roman&quot;,&quot;serif&quot;">4. Did=0Ayou anticipate s=
+omething like that? If yes then what was the reason?</span></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: &quot;Times New Roma=
+n&quot;,&quot;serif&quot;; background-color: transparent; font-style: norma=
+l;"><span style=3D"font-size:12.0pt;line-height:150%;font-family:&quot;Time=
+s New Roman&quot;,&quot;serif&quot;">5. How=0Ado your clients react during =
+the market fall and how did you tackle them?</span></div><div style=3D"colo=
+r: rgb(0, 0, 0); font-size: 12pt; font-family: &quot;Times New Roman&quot;,=
+&quot;serif&quot;; background-color: transparent; font-style: normal;"><spa=
+n style=3D"font-size:12.0pt;line-height:150%;font-family:&quot;Times New Ro=
+man&quot;,&quot;serif&quot;">6. What=0Ais your current market strategy?</sp=
+an><span style=3D"font-size:12.0pt;line-height:150%;font-family:&quot;Times=
+ New Roman&quot;,&quot;serif&quot;"><br></span></div><div style=3D"color: r=
+gb(0, 0, 0); font-size: 16px; font-family: &quot;Times New Roman&quot;,&quo=
+t;serif&quot;; background-color: transparent; font-style: normal;"><span st=
+yle=3D"font-size:12.0pt;line-height:150%;font-family:&quot;Times New Roman&=
+quot;,&quot;serif&quot;">7. How=0Ado you attract people to do business with=
+ you?</span><span style=3D"font-size:12.0pt;line-height:150%;font-family:&q=
+uot;Times New Roman&quot;,&quot;serif&quot;"></span><span class=3D"tab"></s=
+pan><span style=3D"font-size:12.0pt;line-height:150%;font-family:&quot;Time=
+s New Roman&quot;,&quot;serif&quot;"><br></span></div><div style=3D"color: =
+rgb(0, 0, 0); font-size: 7pt; font-family: &quot;Times New Roman&quot;; bac=
+kground-color: transparent; font-style: normal;"><span style=3D"font-size:1=
+2.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,&quot;serif&=
+quot;">8. Where=0Ado you see the market is going?</span></div><div style=3D=
+"color: rgb(0, 0, 0); font-size: 7pt; font-family: &quot;Times New Roman&qu=
+ot;; background-color: transparent; font-style: normal;"><span style=3D"fon=
+t-size:12.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,&quo=
+t;serif&quot;;=0Amso-fareast-font-family:&quot;Times New Roman&quot;"><span=
+ style=3D"mso-list:Ignore"><span style=3D"font:7.0pt &quot;Times New Roman&=
+quot;"></span></span></span><span style=3D"font-size:12.0pt;line-height:150=
+%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">9. How=0Aeasy =
+or difficult it is for companies to make a new entry in the equity market?<=
+/span><span style=3D"font-size:12.0pt;line-height:150%;font-family:&quot;Ti=
+mes New Roman&quot;,&quot;serif&quot;"><br></span></div><div style=3D"color=
+: rgb(0, 0, 0); font-size: 7pt; font-family: &quot;Times New Roman&quot;; b=
+ackground-color: transparent; font-style: normal;"><span style=3D"font-size=
+:12.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,&quot;seri=
+f&quot;">10. What=0Aare your suggestions for any new company in the equity =
+market? </span><br><span style=3D"font-size:12.0pt;line-height:150%;font-fa=
+mily:&quot;Times New Roman&quot;,&quot;serif&quot;"></span><span style=3D"f=
+ont-size:12.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,&q=
+uot;serif&quot;"></span></div><div style=3D"color: rgb(0, 0, 0); font-size:=
+ 7pt; font-family: &quot;Times New Roman&quot;; background-color: transpare=
+nt; font-style: normal;"><span class=3D"tab"></span><span style=3D"font-siz=
+e:12.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,&quot;ser=
+if&quot;">11. What=0Ado you think the government=E2=80=99s steps should be =
+in the current market scenario?</span></div><br><div style=3D"color: rgb(0,=
+ 0, 0); font-size: 16px; font-family: times new roman,new york,times,serif;=
+ background-color: transparent; font-style: normal;">I would like to humbly=
+ request you to give us your precious comments/remarks on the above mention=
+ed points.</div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-fa=
+mily: times new roman,new york,times,serif; background-color: transparent; =
+font-style: normal;"><br></div><div style=3D"color: rgb(0, 0, 0); font-size=
+: 16px; font-family: times new roman,new york,times,serif; background-color=
+: transparent; font-style: normal;">Looking forward to your earliest possib=
+le kind cooperation in this regard.&nbsp;</div><div style=3D"color: rgb(0, =
+0, 0); font-size: 16px; font-family: times new roman,new york,times,serif; =
+background-color: transparent; font-style: normal;"><br></div><div style=3D=
+"color: rgb(0, 0, 0);
+ font-size: 16px; font-family: times new roman,new york,times,serif; backgr=
+ound-color: transparent; font-style: normal;">Thanking you and very best re=
+gards,</div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family=
+: times new roman,new york,times,serif; background-color: transparent; font=
+-style: normal;"><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16=
+px; font-family: times new roman,new york,times,serif; background-color: tr=
+ansparent; font-style: normal;">Md. Ariful Islam</div><div style=3D"color: =
+rgb(0, 0, 0); font-size: 16px; font-family: times new roman,new york,times,=
+serif; background-color: transparent; font-style: normal;">12th Batch, EMBA=
+</div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: time=
+s new roman,new york,times,serif; background-color: transparent; font-style=
+: normal;">IBA, University of Dhaka.</div><div style=3D"color: rgb(0, 0, 0)=
+; font-size: 16px; font-family: times new roman,new york,times,serif;
+ background-color: transparent; font-style: normal;">Phone: +8801726829149<=
+/div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: times=
+ new roman,new york,times,serif; background-color: transparent; font-style:=
+ normal;">E-mail: arif_du_ph@yahoo.com<br></div><div style=3D"color: rgb(0,=
+ 0, 0); font-size: 16px; font-family: times new roman,new york,times,serif;=
+ background-color: transparent; font-style: normal;"><br></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 12pt; font-family: &quot;Times New Roma=
+n&quot;,&quot;serif&quot;; background-color: transparent; font-style: norma=
+l;">=0A=0A<div class=3D"MsoListParagraphCxSpMiddle" style=3D"margin-bottom:=
+0in;margin-bottom:=0A.0001pt;mso-add-space:auto;text-align:justify;text-jus=
+tify:inter-ideograph;=0Atext-indent:-.25in;line-height:150%;mso-list:l0 lev=
+el1 lfo1"><span style=3D"font-size:12.0pt;line-height:150%;font-family:&quo=
+t;Times New Roman&quot;,&quot;serif&quot;;=0Amso-fareast-font-family:&quot;=
+Times New Roman&quot;"><span style=3D"mso-list:Ignore">8.<span style=3D"fon=
+t:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</=
+span></span></span></div>=0A=0A<div class=3D"MsoListParagraphCxSpMiddle" st=
+yle=3D"margin-bottom:0in;margin-bottom:=0A.0001pt;mso-add-space:auto;text-a=
+lign:justify;text-justify:inter-ideograph;=0Atext-indent:-.25in;line-height=
+:150%;mso-list:l0 level1 lfo1"><span style=3D"font-size:12.0pt;line-height:=
+150%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;=0Amso-farea=
+st-font-family:&quot;Times New Roman&quot;"><span style=3D"mso-list:Ignore"=
+>9.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;</span></span></span><span style=3D"font-size:12.0pt;lin=
+e-height:150%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"></=
+span></div><br></div></div></body></html>
+--1778881473-302424966-1357551194=:37137--

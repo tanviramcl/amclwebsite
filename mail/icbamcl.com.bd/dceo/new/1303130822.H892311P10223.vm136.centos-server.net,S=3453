@@ -1,0 +1,54 @@
+Return-path: <jikocse@yahoo.com>
+Envelope-to: dceo@icbamcl.com.bd
+Delivery-date: Mon, 18 Apr 2011 08:47:02 -0400
+Received: from nm29-vm0.bullet.mail.bf1.yahoo.com ([98.139.213.166])
+	by vm136.centos-server.net with smtp (Exim 4.69)
+	(envelope-from <jikocse@yahoo.com>)
+	id 1QBnr4-0002ej-J5
+	for dceo@icbamcl.com.bd; Mon, 18 Apr 2011 08:47:02 -0400
+Received: from [98.139.212.151] by nm29.bullet.mail.bf1.yahoo.com with NNFMP; 18 Apr 2011 12:46:33 -0000
+Received: from [98.139.212.199] by tm8.bullet.mail.bf1.yahoo.com with NNFMP; 18 Apr 2011 12:46:33 -0000
+Received: from [127.0.0.1] by omp1008.mail.bf1.yahoo.com with NNFMP; 18 Apr 2011 12:46:33 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 681674.88441.bm@omp1008.mail.bf1.yahoo.com
+Received: (qmail 49147 invoked by uid 60001); 18 Apr 2011 12:46:33 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1303130793; bh=CPvdhh4zj26+XllpgNY8CSOy0RmnMYRHY4JMLcMdt5o=; h=Message-ID:X-YMail-OSG:Received:X-Mailer:Date:From:Subject:To:MIME-Version:Content-Type; b=1tt+gTSWtLcjY9xMCF7k6QjPDb4hJ0m3XFFOG6HluOSYQ6SrXk36JlnOLM2UfiGooEOiwid/WzdxGixzXHx7WLiAtnTJJx0sFPpxtnvGiORvBUSfzkQT2VQkuN7nzADRzjboBeRmhC5ZwWVr61yiu+jHgX1FJRlYd+b/yvCM20I=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=Message-ID:X-YMail-OSG:Received:X-Mailer:Date:From:Subject:To:MIME-Version:Content-Type;
+  b=VlOr5JxtVBAZzx/IgQmLKLjPPFr82KVajKmuUso8K4+uqqN67lUVEBGQNb2yxJo+XjPPFEU1xRI7JCt8SydAre3zfo/VUWnn/YKQq2xW+9rKSevqnFfdT9hkfedciM99mSkz+aDLOMa/Z/wi1fg86jhUF8yN/Qcp+4wqIbu2Qmc=;
+Message-ID: <600972.48721.qm@web161818.mail.bf1.yahoo.com>
+X-YMail-OSG: Piv18eQVM1laO.xhqZqJXaZ5S2xMHYit05FNygMkHqPiPry
+ qSyg1I2Gz.zXh9lGrdM4UflSHfOERXt3O2dsKAVb_k_c.vFFTvJctd1msxju
+ uJOPFqf4WCAjPgSgwIGAXubW3SMFdchomuDkrh3NmqmyAEiRNtSbt14q6xrn
+ S5AlQiQzIzvVHxjAytnkLiWgItY7iXy7gGN0SnLr4GwRzr3jg9j6v.h7tdv0
+ XX9SUxeY71JZcW1RGzl.tTnPushANPQgtkwPqDxPEqVV5g9bNITew8Dmo8vu
+ gtMTi0irS9t8UhyhxMg8TG0j9Iqnz3m3Ko_CEtzz8QtrCSiMm7dLwZg6fGnW
+ dH_XD9dUWLW0A8t9vf3S47egFAg--
+Received: from [123.161.75.5] by web161818.mail.bf1.yahoo.com via HTTP; Mon, 18 Apr 2011 05:46:33 PDT
+X-Mailer: YahooMailRC/559 YahooMailWebService/0.8.109.295617
+Date: Mon, 18 Apr 2011 05:46:33 -0700 (PDT)
+From: "Md. Mahbub Alam" <jikocse@yahoo.com>
+Subject: Hello
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-78076917-1303130793=:48721"
+
+--0-78076917-1303130793=:48721
+Content-Type: text/plain; charset=us-ascii
+
+Hello
+I have found a very nice shopping website www.ofennx.com and would like to share 
+it with you. The prices of the products on this website is very preferable and 
+this website can provide free delivery charges. 
+
+Wish you won't miss this good chance if you like here!
+All the best for you!
+--0-78076917-1303130793=:48721
+Content-Type: text/html; charset=us-ascii
+
+<html><head><style type="text/css"><!-- DIV {margin:0px;} --></style></head><body><div style="font-family:times new roman, new york, times, serif;font-size:12pt"><DIV>Hello</DIV>
+<DIV>I have found a very nice shopping website <A href="http://www.ofennx.com">www.ofennx.com</A> and would like to share it with you. The prices of the products on this website is very preferable and this website can provide free delivery charges. </DIV>
+<DIV>Wish you won't miss this good chance if you like here!</DIV>
+<DIV>All the best for you!</DIV></div></body></html>
+--0-78076917-1303130793=:48721--
